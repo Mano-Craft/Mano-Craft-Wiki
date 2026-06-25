@@ -1,0 +1,18 @@
+{
+  "creativetoggle": {
+    "latestVersion": "1.1.0",
+    "listedVersions": ["1.0.0 , 1.1.0"]
+  },
+  "emeraldsplus": {
+    "latestVersion": "0.9.0",
+    "listedVersions": ["0.9.0"]
+  },
+  "creative-toggle-default-texture-pack": {
+    "latestVersion": "1.1.0",
+    "listedVersions": ["1.0.0 , 1.1.0"]
+  },
+  "emeraldsplusdefaulttexturepack": {
+    "latestVersion": "0.9.0",
+    "listedVersions": ["0.9.0"]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "version": "3.12.0",
+  "created": "2026-06-24T17:30:57Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "CNAME",
+      "old": true
+    },
+    {
+      "path": "content\\creative-toggle-default-texture-pack\\index.html",
+      "old": true
+    },
+    {
+      "path": "content\\emeralds-plus-default-texture-pack\\index.html",
+      "old": true
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "license\\index.html"
+    },
+    {
+      "path": "package.json"
+    },
+    {
+      "path": "project-versions.json"
+    },
+    {
+      "path": "projects\\creative-toggle-default-texture-pack\\index.html"
+    },
+    {
+      "path": "projects\\creative-toggle\\index.html"
+    },
+    {
+      "path": "projects\\emeralds-plus-default-texture-pack\\index.html"
+    },
+    {
+      "path": "projects\\emeralds-plus\\index.html"
+    },
+    {
+      "path": "projects\\index.html"
+    },
+    {
+      "path": "resources\\css\\retype.css"
+    },
+    {
+      "path": "resources\\fonts\\Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources\\fonts\\Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources\\js\\config.js"
+    },
+    {
+      "path": "resources\\js\\lunr.js"
+    },
+    {
+      "path": "resources\\js\\prism.js"
+    },
+    {
+      "path": "resources\\js\\retype.js"
+    },
+    {
+      "path": "resources\\js\\search.json"
+    },
+    {
+      "path": "resources\\lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "static\\css\\mano-craft.css"
+    },
+    {
+      "path": "static\\js\\language-switch.js",
+      "old": true
+    }
+  ]
+}

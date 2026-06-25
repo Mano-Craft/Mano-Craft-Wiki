@@ -1,0 +1,1064 @@
+{
+  "updated_at": "2026-06-23T12:42:21.092Z",
+  "modrinth": [
+    {
+      "project": {
+        "client_side": "required",
+        "server_side": "unsupported",
+        "game_versions": [
+          "1.21",
+          "1.21.1",
+          "1.21.2",
+          "1.21.3",
+          "1.21.4",
+          "1.21.5",
+          "1.21.6",
+          "1.21.7",
+          "1.21.8",
+          "1.21.9",
+          "1.21.10",
+          "1.21.11",
+          "26.1",
+          "26.1.1",
+          "26.1.2",
+          "26.2"
+        ],
+        "id": "8EDtBDjA",
+        "slug": "creativetoggle",
+        "project_type": "mod",
+        "team": "L0LwP9kr",
+        "organization": null,
+        "title": "Creative Toggle",
+        "description": "Switch betwenn Creative and your last gamemode with F3 + X.",
+        "body": "# English  ![USA Flag](https://cdn.modrinth.com/data/cached_images/3747400f5a81e58173d6d35b134aa5663530d64b.png)\n\n# Creative Toggle – Fabric Mod\n\n**Minecraft 1.21.0 + | Fabric**\n\n## What does the mod do?\n\nPress **F3 + X** (default) to switch to **Creative Mode** - just like `F3+N` switches to Spectator Mode.\nPress **F3 + X** again to return to your **previous game mode**.\n\n> Only works if the player has permission to use `/gamemode` (Singleplayer or OP on a server).\n\n## Configuration\n\nThe key can be changed in the **Settings** under the **Creative Toggle** category:\n\n* Via **Mod Menu** → Gear icon next to **Creative Toggle**\n* Or directly in-game through the settings-key-screen\n\n### Manually (config file)\n\n`config/f3toggle.json`:\n\n```json\n{\n  \"toggleKeyCode\": 88\n}\n```\n\nGLFW key codes: X = 88, Z = 90, C = 67, V = 86, etc.\n\n## Compatibility\n\n| Version |  Compatible |\n|-|-|\n| 1.20.6 | ❌️ |\n| 1.21 | ✅️ |\n| 26.1 | ✅️ |\n| 26.2 | ✅️ |\n\n\nThe mod uses only stable Fabric API and Vanilla APIs, with no version-specific hacks.\n\n## Languages\n\n|  Version | English | Portuguese | Russian | Frensh | German | English Accent | Portuguese Accent | Russian Accent | Frensh  Accent| German Accent | \n|  -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | \n|  1.0.0 | ✅ | ✅ | ✅ | ✅ | ✅ | ❌| ❌| ❌| ❌| ❌| \n|  1.1.0 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | \n\n***\n\n# Deutsch  ![German Flag](https://cdn.modrinth.com/data/cached_images/61b5469b323c5dd4a2284693cd9b8031c1f75ee9.png)\n\n\n# Creative Toggle – Fabric Mod\n\n**Minecraft 1.21.0 + | Fabric**\n\n## Was macht die Mod?\n\nDrücke **F3 + X** (Standard), um in den **Kreativmodus** zu wechseln – genau wie `F3+N` in den Spectator-Modus schaltet.  \nDrücke **F3 + X** nochmal, um in deinen **vorherigen Spielmodus** zurückzukehren.\n\n> Funktioniert nur, wenn der Spieler die `/gamemode`-Berechtigung hat (Singleplayer oder OP auf Servern).\n\n## Einstellungen\n\nDie Taste kann in den **Einstellungen** unter dem Reiter **Creative Toggle** geändert werden:\n\n- Über **Mod Menu** → Zahnrad-Symbol neben „Creative Toggle\"\n- Oder direkt im Spiel über den Einstellung-Steuerung-Bildschirm\n\n### Manuell (config-Datei)\n`config/f3toggle.json`:\n```json\n{\n  \"toggleKeyCode\": 88\n}\n```\nGLFW-Key-Codes: X = 88, Z = 90, C = 67, V = 86, usw.\n\n## Kompatibilität\n\n| Version | Kompatibel |\n|-|-|\n| 1.20.6 | ❌️ |\n| 1.21 | ✅️ |\n| 26.1 | ✅️ |\n| 26.2 | ✅️ |\n\nDie Mod nutzt ausschließlich stabile Fabric-API und Vanilla-APIs, keine versionsspezifischen Hacks.\n\n## Sprachen\n\n|  Version | Englisch | Portugiesich | Russisch | Französich | Deutsch | Englische Akzente | Portugiesiche Akzente | Russische Akzente | Französiche  Akzente | Deutsche Akzente | \n|  -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | \n|  1.0.0 | ✅ | ✅ | ✅ | ✅ | ✅ | ❌| ❌| ❌| ❌| ❌| \n|  1.1.0 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ",
+        "body_url": null,
+        "published": "2026-06-12T13:17:41.211104Z",
+        "updated": "2026-06-13T17:06:30.683166Z",
+        "approved": "2026-06-15T02:41:19.279600Z",
+        "queued": "2026-06-14T07:30:36.393163Z",
+        "status": "approved",
+        "requested_status": "approved",
+        "moderator_message": null,
+        "license": {
+          "id": "LicenseRef-Custom-Licens-by-Mano-Craft",
+          "name": "",
+          "url": "https://github.com/Mano-Craft/Creative-Toogle/blob/main/LICENSE"
+        },
+        "downloads": 118,
+        "followers": 0,
+        "categories": [
+          "game-mechanics",
+          "management",
+          "technology"
+        ],
+        "additional_categories": [],
+        "loaders": [
+          "fabric"
+        ],
+        "versions": [
+          "T8Av4LjQ"
+        ],
+        "icon_url": "https://cdn.modrinth.com/data/8EDtBDjA/3190b1535fdae4df135445fea8c93601fa594414.png",
+        "issues_url": "https://github.com/Mano-Craft/Creative-Toogle/issues",
+        "source_url": "https://github.com/Mano-Craft/Creative-Toogle",
+        "wiki_url": "https://github.com/Mano-Craft/Creative-Toogle/blob/fe94b4bb78bf5553c89f5ef228b4d8dd30b43814/README.md",
+        "discord_url": null,
+        "donation_urls": [],
+        "gallery": [
+          {
+            "url": "https://cdn.modrinth.com/data/8EDtBDjA/images/353053803881fee6094373789c530c687a631f53_350.webp",
+            "raw_url": "https://cdn.modrinth.com/data/8EDtBDjA/images/353053803881fee6094373789c530c687a631f53.png",
+            "featured": true,
+            "title": "Key Change Menu",
+            "description": "This is the screen where you can change the key.You can open it in the mod menu and then the mod settings.",
+            "created": "2026-06-16T16:27:19.030263Z",
+            "ordering": 0
+          },
+          {
+            "url": "https://cdn.modrinth.com/data/8EDtBDjA/images/b7327b5990e710be92c4ded1f704f431db84cc00_350.webp",
+            "raw_url": "https://cdn.modrinth.com/data/8EDtBDjA/images/b7327b5990e710be92c4ded1f704f431db84cc00.png",
+            "featured": false,
+            "title": "Settings Key Change Screen",
+            "description": "This is the screen where you can change the key.You can open it in the settings and key configurations.",
+            "created": "2026-06-16T16:51:12.580096Z",
+            "ordering": 1
+          }
+        ],
+        "color": 11842748,
+        "thread_id": "1bzwRYUE",
+        "monetization_status": "monetized"
+      },
+      "versions": {
+        "value": [
+          {
+            "game_versions": [
+              "1.21",
+              "1.21.1",
+              "1.21.2",
+              "1.21.3",
+              "1.21.4",
+              "1.21.5",
+              "1.21.6",
+              "1.21.7",
+              "1.21.8",
+              "1.21.9",
+              "1.21.10",
+              "1.21.11",
+              "26.1",
+              "26.1.1",
+              "26.1.2",
+              "26.2"
+            ],
+            "loaders": [
+              "fabric"
+            ],
+            "id": "T8Av4LjQ",
+            "project_id": "8EDtBDjA",
+            "author_id": "vGg3K0M2",
+            "featured": false,
+            "name": "Creative-Toggle 1.0.0",
+            "version_number": "1.0.0",
+            "changelog": "# The Creative Toggle Mod\n\nThis is the first release of the creative toggle mod.It let you switch between Creative and your first gamemode with F3 Creative.\n\n## Languages\n\n| Version | English | Portuguese | Russian | Frensh | German| \n| -- | -- | -- | -- | -- | --| \n| 1.0.0 | ✅ | ✅ | ✅ | ✅ | ✅| \n",
+            "changelog_url": null,
+            "date_published": "2026-06-13T17:06:30.683166Z",
+            "downloads": 98,
+            "version_type": "release",
+            "status": "listed",
+            "requested_status": null,
+            "files": [
+              {
+                "id": "rGFBFdc4",
+                "hashes": {
+                  "sha512": "9b93d8c0d85d3a2c729f0083669646fda59d3afdd5c41fe795d6e1a8557656d8038184b5d616fd99e7cc6df653c6e277e6444b1068cf764d45397489756f69a1",
+                  "sha1": "82c8c42beb1108548e3bcc80e15a307019bb8ff9"
+                },
+                "url": "https://cdn.modrinth.com/data/8EDtBDjA/versions/T8Av4LjQ/creative-toggle-fabric-1.0.0.jar",
+                "filename": "creative-toggle-fabric-1.0.0.jar",
+                "primary": true,
+                "size": 14358,
+                "file_type": null
+              }
+            ],
+            "dependencies": [
+              {
+                "version_id": null,
+                "project_id": "P7dR8mSH",
+                "file_name": null,
+                "dependency_type": "required"
+              }
+            ]
+          }
+        ],
+        "Count": 1
+      },
+      "github_readme": {
+        "source": "GitHub Mano-Craft/Creative-Toogle/README.md",
+        "url": "https://raw.githubusercontent.com/Mano-Craft/Creative-Toogle/main/README.md",
+        "content": "# English  ![USA Flag](https://cdn.modrinth.com/data/cached_images/3747400f5a81e58173d6d35b134aa5663530d64b.png)\n\n# Creative Toggle – Fabric Mod\n\n**Minecraft 1.21.0 + | Fabric**\n\n## What does the mod do?\n\nPress **F3 + X** (default) to switch to **Creative Mode** - just like `F3+N` switches to Spectator Mode.\nPress **F3 + X** again to return to your **previous game mode**.\n\n> Only works if the player has permission to use `/gamemode` (Singleplayer or OP on a server).\n\n## Configuration\n\nThe key can be changed in the **Settings** under the **Creative Toggle** category:\n\n* Via **Mod Menu** → Gear icon next to **Creative Toggle**\n* Or directly in-game through the settings-key-screen\n\n### Manually (config file)\n\n`config/f3toggle.json`:\n\n```json\n{\n  \"toggleKeyCode\": 88\n}\n```\n\nGLFW key codes: X = 88, Z = 90, C = 67, V = 86, etc.\n\n## Compatibility\n\n| Version |  Compatible |\n|-|-|\n| 1.20.6 | ❌️ |\n| 1.21 | ✅️ |\n| 26.1 | ✅️ |\n| 26.2 | ✅️ |\n\nThe mod uses only stable Fabric API and Vanilla APIs, with no version-specific hacks.\n\n## Languages\n\n|  Version | English | Portuguese | Russian | Frensh | German | English Accent | Portuguese Accent | Russian Accent | Frensh  Accent| German Accent | \n|  -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | \n|  1.0.0 | ✅ | ✅ | ✅ | ✅ | ✅ | ❌| ❌| ❌| ❌| ❌| \n|  1.1.0 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | \n\n\n# License\n\nThis project is licensed under the **Custom License by Mano Craft**.\n\nSee the LICENSE file for details.\n\n\n***\n\n# Deutsch  ![German Flag](https://cdn.modrinth.com/data/cached_images/61b5469b323c5dd4a2284693cd9b8031c1f75ee9.png)\n\n\n# Creative Toggle – Fabric Mod\n\n**Minecraft 1.21.0 + | Fabric**\n\n## Was macht die Mod?\n\nDrücke **F3 + X** (Standard), um in den **Kreativmodus** zu wechseln – genau wie `F3+N` in den Spectator-Modus schaltet.  \nDrücke **F3 + X** nochmal, um in deinen **vorherigen Spielmodus** zurückzukehren.\n\n> Funktioniert nur, wenn der Spieler die `/gamemode`-Berechtigung hat (Singleplayer oder OP auf Servern).\n\n## Einstellungen\n\nDie Taste kann in den **Einstellungen** unter dem Reiter **Creative Toggle** geändert werden:\n\n- Über **Mod Menu** → Zahnrad-Symbol neben „Creative Toggle\"\n- Oder direkt im Spiel über den Einstellung-Steuerung-Bildschirm\n\n### Manuell (config-Datei)\n`config/f3toggle.json`:\n```json\n{\n  \"toggleKeyCode\": 88\n}\n```\nGLFW-Key-Codes: X = 88, Z = 90, C = 67, V = 86, usw.\n\n## Kompatibilität\n\n| Version | Kompatibel |\n|-|-|\n| 1.20.6 | ❌️ |\n| 1.21 | ✅️ |\n| 26.1 | ✅️ |\n| 26.2 | ✅️ |\n\nDie Mod nutzt ausschließlich stabile Fabric-API und Vanilla-APIs, keine versionsspezifischen Hacks.\n\n## Sprachen\n\n|  Version | Englisch | Portugiesich | Russisch | Französich | Deutsch | Englische Akzente | Portugiesiche Akzente | Russische Akzente | Französiche  Akzente | Deutsche Akzente | \n|  -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | \n|  1.0.0 | ✅ | ✅ | ✅ | ✅ | ✅ | ❌| ❌| ❌| ❌| ❌| \n|  1.1.0 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | \n\n# Lizense\n\nDieses projekt ist lizensiert unter der **Custom License by Mano Craft**.\n\nSiehe LICENSE datei für details.\n"
+      }
+    },
+    {
+      "project": {
+        "client_side": "required",
+        "server_side": "required",
+        "game_versions": [
+          "26.1.2"
+        ],
+        "id": "GPBU7vIp",
+        "slug": "emeraldsplus",
+        "project_type": "mod",
+        "team": "oW3hyE5W",
+        "organization": null,
+        "title": "Emeralds Plus",
+        "description": "A Mod which adds a ton of new features for emeralds.",
+        "body": "# 💚 The Emeralds Plus Mod\n\nUpgrade your Minecraft experience with powerful new emerald equipment!\n\nThe **Emeralds Plus Mod** introduces a complete set of **Emerald Armor**, **Emerald Tools**, and the **Emerald Upgrade** smithing template.\n\nEmerald equipment is balanced to be **stronger than Diamond** but **slightly weaker than Netherite**, making it the perfect mid-to-late-game gear.\n\n> ✨ Exclusive enchantments for Emerald equipment are planned for a future update!\n\n---\n\n# ✨ Features\n\n- 💚 Emerald Armor Set\n- ⚔️ Emerald Tool Set\n- 🔨 Emerald Upgrade Smithing Template\n- 🏘️ Village Loot Integration\n- ⚖️ Balanced progression between Diamond and Netherite\n\n---\n\n## 🗺️ Languages\n\n| Version | English | Portuguese | Russian | Frensh | German |\n|------|-------------|------|------|-------------|------|\n| 0.9.1   |  ✅  | ✅ | ✅ | ✅ | ✅ |\n| 0.9.0   |  ✅  | ❌  | ❌ | ❌ | ❌ |\n\n---\n\n## 🔧 Channging the Mod Texture\n- If you want to change the textures just download the [Default Texture pack](https://modrinth.com/resourcepack/emeraldsplusdefaulttexturepack) and change there textures.I recomment to use the same mod version as the texture pack. \n\n---\n\n# 🔨 Emerald Upgrade\n\nThe **Emerald Upgrade** allows you to upgrade **Diamond Tools** and **Diamond Armor** into their Emerald variants.\n\n### Requirements\n- Diamond Tool or Armor\n- 1 Emerald Block\n- 1 Emerald Upgrade\n\n### How to obtain\n\n- 📦 Found in **Weaponsmith** village chests\n- 🎲 **50% chance** to generate\n\nYou can also duplicate the Emerald Upgrade:\n\n<details>\n<summary><b>📖 Crafting Recipe</b></summary>\n\n![Emerald Upgrade Crafting](https://cdn.modrinth.com/data/cached_images/bacf91da6fda64b30fc0cbb042602cda32169a2e.png)\n\n![Emerald Upgrade Crafting 2](https://cdn.modrinth.com/data/cached_images/d497761f2b7e4374a9f48bf530f99af507a4c9f4.png)\n\n</details>\n\n---\n\n# ⚔️ Emerald Sword\n\nA stronger alternative to the Diamond Sword while remaining slightly weaker than Netherite.\n\n### Obtain\n- 🏘️ Found in Weaponsmith village chests\n- 🎲 3% chance\n\n<details>\n<summary><b>📖 Crafting Recipe</b></summary>\n\n![Emerald Sword Crafting](https://cdn.modrinth.com/data/cached_images/e5195e6bf78096101476463b038c242afeec73ba.png)\n\n</details>\n\n---\n\n# 🪓 Emerald Axe\n\nA powerful axe balanced between Diamond and Netherite.\n\n### Obtain\n- 🏘️ Found in Weaponsmith village chests\n- 🎲 3% chance\n\n<details>\n<summary><b>📖 Crafting Recipe</b></summary>\n\n![Emerald Axe Crafting](https://cdn.modrinth.com/data/cached_images/1fa006337e2199f537648be1be878476d15e37a2.png)\n\n</details>\n\n---\n\n# ⛏️ Emerald Pickaxe\n\nMine faster with an upgraded pickaxe stronger than Diamond.\n\n### Obtain\n- 🏘️ Found in Weaponsmith village chests\n- 🎲 3% chance\n\n<details>\n<summary><b>📖 Crafting Recipe</b></summary>\n\n![Emerald Pickaxe Crafting](https://cdn.modrinth.com/data/cached_images/cca38e87d57787c799bf8140b8086929a23ad0c2.png)\n\n</details>\n\n---\n\n# 🛠 Emerald Shovel\n\nThe Emerald Shovel offers improved durability and mining speed.\n\n<details>\n<summary><b>📖 Crafting Recipe</b></summary>\n\n![Emerald Shovel Crafting](https://cdn.modrinth.com/data/cached_images/a4279e83dc2fa8163caeda97f42297893420824d.png)\n\n</details>\n\n---\n\n# 🌾 Emerald Hoe\n\nA durable farming tool made from emeralds.\n\n<details>\n<summary><b>📖 Crafting Recipe</b></summary>\n\n![Emerald Hoe Crafting](https://cdn.modrinth.com/data/cached_images/8fc1d76e0efff0f40c176b18b2140f05c3825b52.png)\n\n</details>\n\n---\n\n# 🛡️ Emerald Armor\n\nThe complete Emerald Armor set provides protection between Diamond and Netherite.\n\n<details>\n<summary><b>📖 Armor Crafting Recipes</b></summary>\n\n### Helmet\n\n![Emerald Helmet Crafting](https://cdn.modrinth.com/data/cached_images/030f16155948131e3d1a1886c170db3960bbdc94.png)\n\n### Chestplate\n\n![Emerald Chestplate Crafting](https://cdn.modrinth.com/data/cached_images/8d8ae5377ddecc5883f6ecf3d93e7eb0d33776b0.png)\n\n### Leggings\n\n![Emerald Leggings Crafting](https://cdn.modrinth.com/data/cached_images/101f6aba3b2765a6eec103009060c075c96784b7.png)\n\n### Boots\n\n![Emerald Boots Crafting](https://cdn.modrinth.com/data/cached_images/9ca8d45393eec995b699b84324804a721a5b4cb3.png)\n\n</details>\n\n---\n\n# 🚀 Changelog and Roadmap\n\n\n| Features | 0.9.0 | 0.9.1 | 0.9.2 | 1.0.0 | 2.0.0 | 2.1.0 |\n|-----------------|-|-|-|-|-|-|\n| Emerald Upgrade |  ✅  | ✅ | ✅ | ✅ | ✅ | ✅ |\n| Emerald Armor |  ✅  | ✅ | ✅ | ✅ | ✅ | ✅ |\n| Emerald Sword |  ✅  | ✅ | ✅ | ✅ | ✅ | ✅ |\n| Emerald Axe |  ✅  | ✅ | ✅ | ✅ | ✅ | ✅ |\n| Emerald Pickaxe |  ✅  | ✅ | ✅ | ✅ | ✅ | ✅ |\n| Emerald Shovel |  ✅  | ✅ | ✅ | ✅ | ✅ | ✅ |\n| Emerald Hoe |  ✅  | ✅ | ✅ | ✅ | ✅ | ✅ |\n| English Support | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |\n| German Support | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ |\n| Frensh Support | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ |\n| Russian Support | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ |\n| Portuguese Support | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ |\n| Better Creative Tab | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ |\n| Emerald Shield | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ |\n| Exclusive Emerald Entchantments | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ |\n| Emerald Spear | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |",
+        "body_url": null,
+        "published": "2026-06-07T15:26:06.082170Z",
+        "updated": "2026-06-11T15:47:57.498494Z",
+        "approved": "2026-06-19T20:11:49.576003Z",
+        "queued": "2026-06-15T12:47:53.370587Z",
+        "status": "approved",
+        "requested_status": "approved",
+        "moderator_message": null,
+        "license": {
+          "id": "LicenseRef-Custom-Licens-by-Mano-Craft",
+          "name": "",
+          "url": "https://github.com/Mano-Craft/Emeralds-plus/blob/main/LICENSE"
+        },
+        "downloads": 37,
+        "followers": 0,
+        "categories": [
+          "adventure",
+          "equipment",
+          "utility"
+        ],
+        "additional_categories": [
+          "magic"
+        ],
+        "loaders": [
+          "fabric"
+        ],
+        "versions": [
+          "BS8FwKYP"
+        ],
+        "icon_url": "https://cdn.modrinth.com/data/GPBU7vIp/84dff7f78f6b90b2d93b19c93d3f70b69075fa7d.png",
+        "issues_url": "https://github.com/Mano-Craft/Emeralds-plus/issues",
+        "source_url": "https://github.com/Mano-Craft/Emeralds-plus",
+        "wiki_url": "https://github.com/Mano-Craft/Emeralds-Plus/blob/2df2f87c51bffa564bf80efba1318b59ffdd6963/README.md",
+        "discord_url": null,
+        "donation_urls": [],
+        "gallery": [
+          {
+            "url": "https://cdn.modrinth.com/data/GPBU7vIp/images/37010fedc5e584e323ff63b39a2f21cdd7539a13_350.webp",
+            "raw_url": "https://cdn.modrinth.com/data/GPBU7vIp/images/37010fedc5e584e323ff63b39a2f21cdd7539a13.png",
+            "featured": true,
+            "title": "The Emeralds Plus Mod",
+            "description": "This Picture containes every item which is added in the mod",
+            "created": "2026-06-10T17:00:48.731445Z",
+            "ordering": 0
+          },
+          {
+            "url": "https://cdn.modrinth.com/data/GPBU7vIp/images/8bc0dbe1e9a97973d0f39c11be0e0f876eaa0c5c_350.webp",
+            "raw_url": "https://cdn.modrinth.com/data/GPBU7vIp/images/8bc0dbe1e9a97973d0f39c11be0e0f876eaa0c5c.png",
+            "featured": false,
+            "title": "The Emerald Armor",
+            "description": "This is the Emerald Armor",
+            "created": "2026-06-11T16:02:10.820716Z",
+            "ordering": 0
+          },
+          {
+            "url": "https://cdn.modrinth.com/data/GPBU7vIp/images/c36c5af56952707c816bacc797f0a1f4060c6dc4_350.webp",
+            "raw_url": "https://cdn.modrinth.com/data/GPBU7vIp/images/c36c5af56952707c816bacc797f0a1f4060c6dc4.png",
+            "featured": false,
+            "title": "The Emerald Upgrade",
+            "description": "This is the Emerald Upgrade",
+            "created": "2026-06-10T17:03:05.220774Z",
+            "ordering": 1
+          },
+          {
+            "url": "https://cdn.modrinth.com/data/GPBU7vIp/images/e6f938a000f1efbe0fbb7b6083d91c2e0d427130_350.webp",
+            "raw_url": "https://cdn.modrinth.com/data/GPBU7vIp/images/e6f938a000f1efbe0fbb7b6083d91c2e0d427130.png",
+            "featured": false,
+            "title": "The Emerald Sword",
+            "description": "This is the Emerald Sword",
+            "created": "2026-06-10T17:03:47.877589Z",
+            "ordering": 2
+          },
+          {
+            "url": "https://cdn.modrinth.com/data/GPBU7vIp/images/6a1185d1fefd93b2d960bded3084f5ea41fa1570_350.webp",
+            "raw_url": "https://cdn.modrinth.com/data/GPBU7vIp/images/6a1185d1fefd93b2d960bded3084f5ea41fa1570.png",
+            "featured": false,
+            "title": "The Emerald Axe",
+            "description": "This is the Emerald Axe",
+            "created": "2026-06-10T17:04:24.240485Z",
+            "ordering": 3
+          },
+          {
+            "url": "https://cdn.modrinth.com/data/GPBU7vIp/images/ad3ff60124212cb2e2bca584f86ae8a8ac68857d_350.webp",
+            "raw_url": "https://cdn.modrinth.com/data/GPBU7vIp/images/ad3ff60124212cb2e2bca584f86ae8a8ac68857d.png",
+            "featured": false,
+            "title": "The Emerald Pickaxe",
+            "description": "This is the Emerald Pickaxe",
+            "created": "2026-06-10T17:04:58.075425Z",
+            "ordering": 4
+          },
+          {
+            "url": "https://cdn.modrinth.com/data/GPBU7vIp/images/ad852d410606d515a89793c785cc1bd82b79a185_350.webp",
+            "raw_url": "https://cdn.modrinth.com/data/GPBU7vIp/images/ad852d410606d515a89793c785cc1bd82b79a185.png",
+            "featured": false,
+            "title": "The Emerald Shovel",
+            "description": "This is the Emerald Shovel",
+            "created": "2026-06-10T17:18:13.560800Z",
+            "ordering": 5
+          },
+          {
+            "url": "https://cdn.modrinth.com/data/GPBU7vIp/images/e65f964134001bf81476bef9f0a6727750acfa44_350.webp",
+            "raw_url": "https://cdn.modrinth.com/data/GPBU7vIp/images/e65f964134001bf81476bef9f0a6727750acfa44.png",
+            "featured": false,
+            "title": "The Emerald Hoe",
+            "description": "This is the Emerald Hoe",
+            "created": "2026-06-10T17:18:48.562253Z",
+            "ordering": 6
+          },
+          {
+            "url": "https://cdn.modrinth.com/data/GPBU7vIp/images/cc89da7f6635f21103feaa90a6bc4ccfcb899e8a_350.webp",
+            "raw_url": "https://cdn.modrinth.com/data/GPBU7vIp/images/cc89da7f6635f21103feaa90a6bc4ccfcb899e8a.png",
+            "featured": false,
+            "title": "The Emerald Helmet",
+            "description": "This is the Emerald Helmet",
+            "created": "2026-06-11T16:03:22.488546Z",
+            "ordering": 7
+          },
+          {
+            "url": "https://cdn.modrinth.com/data/GPBU7vIp/images/b3f9c99aa3a2eeaa3271a357581d30b8cf68462e_350.webp",
+            "raw_url": "https://cdn.modrinth.com/data/GPBU7vIp/images/b3f9c99aa3a2eeaa3271a357581d30b8cf68462e.png",
+            "featured": false,
+            "title": "The Emerald Chestplate",
+            "description": "This is the Emerald Chestplate",
+            "created": "2026-06-11T16:04:26.243282Z",
+            "ordering": 8
+          },
+          {
+            "url": "https://cdn.modrinth.com/data/GPBU7vIp/images/86baed94f0be6e73c6370ed3a60271c47fa51e26_350.webp",
+            "raw_url": "https://cdn.modrinth.com/data/GPBU7vIp/images/86baed94f0be6e73c6370ed3a60271c47fa51e26.png",
+            "featured": false,
+            "title": "The Emerald Leggings",
+            "description": "This is the Emerald Leggings",
+            "created": "2026-06-11T16:05:22.070383Z",
+            "ordering": 9
+          },
+          {
+            "url": "https://cdn.modrinth.com/data/GPBU7vIp/images/794d7b773db60c7ea8dd3eb61a43882b8186e48d_350.webp",
+            "raw_url": "https://cdn.modrinth.com/data/GPBU7vIp/images/794d7b773db60c7ea8dd3eb61a43882b8186e48d.png",
+            "featured": false,
+            "title": "The Emerald Boots",
+            "description": "These are the Emerald Boots",
+            "created": "2026-06-11T16:06:09.535099Z",
+            "ordering": 10
+          },
+          {
+            "url": "https://cdn.modrinth.com/data/GPBU7vIp/images/bacf91da6fda64b30fc0cbb042602cda32169a2e.png",
+            "raw_url": "https://cdn.modrinth.com/data/GPBU7vIp/images/bacf91da6fda64b30fc0cbb042602cda32169a2e.png",
+            "featured": false,
+            "title": "The Emerald Upgrade Crafting",
+            "description": "This is one of The Emerald Upgrade Crafting Recipes",
+            "created": "2026-06-11T15:41:14.294544Z",
+            "ordering": 14
+          },
+          {
+            "url": "https://cdn.modrinth.com/data/GPBU7vIp/images/d497761f2b7e4374a9f48bf530f99af507a4c9f4.png",
+            "raw_url": "https://cdn.modrinth.com/data/GPBU7vIp/images/d497761f2b7e4374a9f48bf530f99af507a4c9f4.png",
+            "featured": false,
+            "title": "The Emerald Upgrade Crafting",
+            "description": "This is one of The Emerald Upgrade Crafting Recipes",
+            "created": "2026-06-11T15:41:50.982016Z",
+            "ordering": 14
+          },
+          {
+            "url": "https://cdn.modrinth.com/data/GPBU7vIp/images/e5195e6bf78096101476463b038c242afeec73ba_350.webp",
+            "raw_url": "https://cdn.modrinth.com/data/GPBU7vIp/images/e5195e6bf78096101476463b038c242afeec73ba.png",
+            "featured": false,
+            "title": "The Emerald Sword Crafting",
+            "description": "This is the Emerald Sword Crafting Recipe",
+            "created": "2026-06-10T17:13:47.851790Z",
+            "ordering": 15
+          },
+          {
+            "url": "https://cdn.modrinth.com/data/GPBU7vIp/images/1fa006337e2199f537648be1be878476d15e37a2.png",
+            "raw_url": "https://cdn.modrinth.com/data/GPBU7vIp/images/1fa006337e2199f537648be1be878476d15e37a2.png",
+            "featured": false,
+            "title": "The Emerald Axe Crafting",
+            "description": "This is the Emerald Axe Crafting Recipe",
+            "created": "2026-06-10T17:14:31.984498Z",
+            "ordering": 16
+          },
+          {
+            "url": "https://cdn.modrinth.com/data/GPBU7vIp/images/bbb98f8df070e0fbd638636b0b26e78b87d75c0b.png",
+            "raw_url": "https://cdn.modrinth.com/data/GPBU7vIp/images/bbb98f8df070e0fbd638636b0b26e78b87d75c0b.png",
+            "featured": false,
+            "title": "The Emerald Pickaxe Crafting",
+            "description": "This is The Emerald Pickaxe Crafting Recipe",
+            "created": "2026-06-10T17:58:39.826096Z",
+            "ordering": 17
+          },
+          {
+            "url": "https://cdn.modrinth.com/data/GPBU7vIp/images/a4279e83dc2fa8163caeda97f42297893420824d.png",
+            "raw_url": "https://cdn.modrinth.com/data/GPBU7vIp/images/a4279e83dc2fa8163caeda97f42297893420824d.png",
+            "featured": false,
+            "title": "The Emerald Shovel",
+            "description": "This is The Emerald Shovel Crafting Recipe",
+            "created": "2026-06-10T17:59:23.784625Z",
+            "ordering": 18
+          },
+          {
+            "url": "https://cdn.modrinth.com/data/GPBU7vIp/images/8fc1d76e0efff0f40c176b18b2140f05c3825b52.png",
+            "raw_url": "https://cdn.modrinth.com/data/GPBU7vIp/images/8fc1d76e0efff0f40c176b18b2140f05c3825b52.png",
+            "featured": false,
+            "title": "The Emerald Hoe",
+            "description": "This is The Emerald Hoe Crafting Recipe",
+            "created": "2026-06-10T18:00:06.114712Z",
+            "ordering": 19
+          },
+          {
+            "url": "https://cdn.modrinth.com/data/GPBU7vIp/images/030f16155948131e3d1a1886c170db3960bbdc94.png",
+            "raw_url": "https://cdn.modrinth.com/data/GPBU7vIp/images/030f16155948131e3d1a1886c170db3960bbdc94.png",
+            "featured": false,
+            "title": "The Emerald Helmet Crafting",
+            "description": "This is the Emerald Helmet Crafting Recipe",
+            "created": "2026-06-11T16:10:58.592583Z",
+            "ordering": 20
+          },
+          {
+            "url": "https://cdn.modrinth.com/data/GPBU7vIp/images/8d8ae5377ddecc5883f6ecf3d93e7eb0d33776b0.png",
+            "raw_url": "https://cdn.modrinth.com/data/GPBU7vIp/images/8d8ae5377ddecc5883f6ecf3d93e7eb0d33776b0.png",
+            "featured": false,
+            "title": "The Emerald Chestplate Crafting",
+            "description": "This is the Emerald Chestplate Crafting Recipe",
+            "created": "2026-06-11T16:11:41.084269Z",
+            "ordering": 21
+          },
+          {
+            "url": "https://cdn.modrinth.com/data/GPBU7vIp/images/101f6aba3b2765a6eec103009060c075c96784b7_350.webp",
+            "raw_url": "https://cdn.modrinth.com/data/GPBU7vIp/images/101f6aba3b2765a6eec103009060c075c96784b7.png",
+            "featured": false,
+            "title": "The Emerald Leggings Crafting",
+            "description": "This is the Emerald Legings Crafting Recipe",
+            "created": "2026-06-11T16:12:27.924969Z",
+            "ordering": 22
+          },
+          {
+            "url": "https://cdn.modrinth.com/data/GPBU7vIp/images/9ca8d45393eec995b699b84324804a721a5b4cb3.png",
+            "raw_url": "https://cdn.modrinth.com/data/GPBU7vIp/images/9ca8d45393eec995b699b84324804a721a5b4cb3.png",
+            "featured": false,
+            "title": "The Emerald Boots Crafting",
+            "description": "This is the Emerald Boots Crafting Recipe",
+            "created": "2026-06-11T16:13:01.752051Z",
+            "ordering": 23
+          },
+          {
+            "url": "https://cdn.modrinth.com/data/GPBU7vIp/images/0d005600ec64ab5b0982fc27c970b6f74b4b6a38_350.webp",
+            "raw_url": "https://cdn.modrinth.com/data/GPBU7vIp/images/0d005600ec64ab5b0982fc27c970b6f74b4b6a38.png",
+            "featured": false,
+            "title": "The Emerald Armor Crafting",
+            "description": "This are the Emerald Armor Crafting Recipes",
+            "created": "2026-06-11T16:13:39.756050Z",
+            "ordering": 24
+          }
+        ],
+        "color": 6347872,
+        "thread_id": "EXfKzuZf",
+        "monetization_status": "monetized"
+      },
+      "versions": {
+        "value": [
+          {
+            "game_versions": [
+              "26.1.2"
+            ],
+            "loaders": [
+              "fabric"
+            ],
+            "id": "BS8FwKYP",
+            "project_id": "GPBU7vIp",
+            "author_id": "vGg3K0M2",
+            "featured": false,
+            "name": "Emeralds plus 0.9.0",
+            "version_number": "0.9.0",
+            "changelog": "This is the first version of the mod it containes: The Emerald Tools , Emerald Armor and Emerald Upgrade.See the Mod guide in the description.![Emerald Plus](https://cdn.modrinth.com/data/cached_images/c36c5af56952707c816bacc797f0a1f4060c6dc4.png)",
+            "changelog_url": null,
+            "date_published": "2026-06-11T15:47:57.498494Z",
+            "downloads": 25,
+            "version_type": "beta",
+            "status": "listed",
+            "requested_status": null,
+            "files": [
+              {
+                "id": "mdx3R8T0",
+                "hashes": {
+                  "sha1": "f29e113e145b9c093109b0be29e8c367ce1d7c9b",
+                  "sha512": "7cd0ce52ed62574919c29f6ab86d5310a6dd7efc5d3ce90d0c7d23eb03f359594ca037fae56e4de1af7fbfb060067c5800341933fd5661d4c6dd88ca30944ea4"
+                },
+                "url": "https://cdn.modrinth.com/data/GPBU7vIp/versions/BS8FwKYP/emeraldsplus-0.9.0%2Bmc26.1.2.jar",
+                "filename": "emeraldsplus-0.9.0+mc26.1.2.jar",
+                "primary": true,
+                "size": 98831,
+                "file_type": null
+              }
+            ],
+            "dependencies": [
+              {
+                "version_id": "E1mjhYMF",
+                "project_id": "P7dR8mSH",
+                "file_name": null,
+                "dependency_type": "required"
+              }
+            ]
+          }
+        ],
+        "Count": 1
+      },
+      "github_readme": {
+        "source": "GitHub Mano-Craft/Emeralds-plus/README.md",
+        "url": "https://raw.githubusercontent.com/Mano-Craft/Emeralds-plus/main/README.md",
+        "content": "# 💚 The Emeralds Plus Mod\n\nUpgrade your Minecraft experience with powerful new emerald equipment!\n\nThe **Emeralds Plus Mod** introduces a complete set of **Emerald Armor**, **Emerald Tools**, and the **Emerald Upgrade** smithing template.\n\nEmerald equipment is balanced to be **stronger than Diamond** but **slightly weaker than Netherite**, making it the perfect mid-to-late-game gear.\n\n> ✨ Exclusive enchantments for Emerald equipment are planned for a future update!\n\n---\n\n#  🔧 Building the Mod on his own\n\n- If You want to build the mod and change it for yourselfes use. You have to change the `mcreator` folder to the `.mcreator` folder .And it **Only works with Mcreator 2026.2 and the Fabric 26.1.2 Plugin**\n- If you only want to change the textures just download the default texture pack ( is also shown in the download ) and change there textures.I recomment to use the same mod version as the texture pack\n\n---\n\n# ✨ Features\n\n- 💚 Emerald Armor Set\n- ⚔️ Emerald Tool Set\n- 🔨 Emerald Upgrade Smithing Template\n- 🏘️ Village Loot Integration\n- ⚖️ Balanced progression between Diamond and Netherite\n\n---\n\n## 🗺️ Languages\n\n| Version | English | Portuguese | Russian | Frensh | German |\n|------|-------------|------|------|-------------|------|\n| 0.9.1   |  ✅  | ✅ | ✅ | ✅ | ✅ |\n| 0.9.0   |  ✅  | ❌  | ❌ | ❌ | ❌ |\n\n---\n\n# 🔨 Emerald Upgrade\n\nThe **Emerald Upgrade** allows you to upgrade **Diamond Tools** and **Diamond Armor** into their Emerald variants.\n\n### Requirements\n- Diamond Tool or Armor\n- 1 Emerald Block\n- 1 Emerald Upgrade\n\n### How to obtain\n\n- 📦 Found in **Weaponsmith** village chests\n- 🎲 **50% chance** to generate\n\nYou can also duplicate the Emerald Upgrade:\n\n<details>\n<summary><b>📖 Emerald Upgrade Crafting</b></summary>\n\n![Emerald Upgrade Crafting](https://cdn.modrinth.com/data/cached_images/bacf91da6fda64b30fc0cbb042602cda32169a2e.png)\n\n![Emerald Upgrade Crafting 2](https://cdn.modrinth.com/data/cached_images/d497761f2b7e4374a9f48bf530f99af507a4c9f4.png)\n\n</details>\n\n---\n\n# ⚔️ Emerald Sword\n\nA stronger alternative to the Diamond Sword while remaining slightly weaker than Netherite.\n\n### Obtain\n- 🏘️ Found in Weaponsmith village chests\n- 🎲 3% chance\n\n<details>\n<summary><b📖 >Crafting Recipe</b></summary>\n\n![Emerald Sword Crafting](https://cdn.modrinth.com/data/cached_images/e5195e6bf78096101476463b038c242afeec73ba.png)\n\n</details>\n\n---\n\n# 🪓 Emerald Axe\n\nA powerful axe balanced between Diamond and Netherite.\n\n### Obtain\n- 🏘️ Found in Weaponsmith village chests\n- 🎲 3% chance\n\n<details>\n<summary><b>📖 Crafting Recipe</b></summary>\n\n![Emerald Axe Crafting](https://cdn.modrinth.com/data/cached_images/1fa006337e2199f537648be1be878476d15e37a2.png)\n\n</details>\n\n---\n\n# ⛏️ Emerald Pickaxe\n\nMine faster with an upgraded pickaxe stronger than Diamond.\n\n### Obtain\n- 🏘️ Found in Weaponsmith village chests\n- 🎲 3% chance\n\n<details>\n<summary><b>📖 Crafting Recipe</b></summary>\n\n![Emerald Pickaxe Crafting](https://cdn.modrinth.com/data/cached_images/cca38e87d57787c799bf8140b8086929a23ad0c2.png)\n\n</details>\n\n---\n\n# 🛠 Emerald Shovel\n\nThe Emerald Shovel offers improved durability and mining speed.\n\n<details>\n<summary><b>📖 Crafting Recipe</b></summary>\n\n![Emerald Shovel Crafting](https://cdn.modrinth.com/data/cached_images/a4279e83dc2fa8163caeda97f42297893420824d.png)\n\n</details>\n\n---\n\n# 🌾 Emerald Hoe\n\nA durable farming tool made from emeralds.\n\n<details>\n<summary><b>📖 Crafting Recipe</b></summary>\n\n![Emerald Hoe Crafting](https://cdn.modrinth.com/data/cached_images/8fc1d76e0efff0f40c176b18b2140f05c3825b52.png)\n\n</details>\n\n---\n\n# 🛡️ Emerald Armor\n\nThe complete Emerald Armor set provides protection between Diamond and Netherite.\n\n<details>\n<summary><b>📖 Armor Crafting Recipes</b></summary>\n\n### Helmet\n\n![Emerald Helmet Crafting](https://cdn.modrinth.com/data/cached_images/030f16155948131e3d1a1886c170db3960bbdc94.png)\n\n### Chestplate\n\n![Emerald Chestplate Crafting](https://cdn.modrinth.com/data/cached_images/8d8ae5377ddecc5883f6ecf3d93e7eb0d33776b0.png)\n\n### Leggings\n\n![Emerald Leggings Crafting](https://cdn.modrinth.com/data/cached_images/101f6aba3b2765a6eec103009060c075c96784b7.png)\n\n### Boots\n\n![Emerald Boots Crafting](https://cdn.modrinth.com/data/cached_images/9ca8d45393eec995b699b84324804a721a5b4cb3.png)\n\n</details>\n\n---\n\n# 🚀 Changelog and Roadmap\n\n\n| Features | 0.9.0 | 0.9.1 | 0.9.2 | 1.0.0 | 2.0.0 | 2.1.0 |\n|-----------------|-|-|-|-|-|-|\n| Emerald Upgrade |  ✅  | ✅ | ✅ | ✅ | ✅ | ✅ |\n| Emerald Armor |  ✅  | ✅ | ✅ | ✅ | ✅ | ✅ |\n| Emerald Sword |  ✅  | ✅ | ✅ | ✅ | ✅ | ✅ |\n| Emerald Axe |  ✅  | ✅ | ✅ | ✅ | ✅ | ✅ |\n| Emerald Pickaxe |  ✅  | ✅ | ✅ | ✅ | ✅ | ✅ |\n| Emerald Shovel |  ✅  | ✅ | ✅ | ✅ | ✅ | ✅ |\n| Emerald Hoe |  ✅  | ✅ | ✅ | ✅ | ✅ | ✅ |\n| English Support | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |\n| German Support | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ |\n| Frensh Support | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ |\n| Russian Support | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ |\n| Portuguese Support | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ |\n| Better Creative Tab | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ |\n| Emerald Shield | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ |\n| Exclusive Emerald Entchantments | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ |\n| Emerald Spear | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |\n\n\n\n  \n\n# License\n\nThis project is licensed under the **Custom License by Mano Craft**.\n\nSee the LICENSE file for details.\n"
+      }
+    },
+    {
+      "project": {
+        "client_side": "required",
+        "server_side": "unsupported",
+        "game_versions": [
+          "26.1.2"
+        ],
+        "id": "ErFdq60k",
+        "slug": "creative-toggle-default-texture-pack",
+        "project_type": "resourcepack",
+        "team": "nxskt665",
+        "organization": null,
+        "title": "Creative Toggle Default Texture Pack",
+        "description": "This Texturepack containes every texture of the Creative Toggle Mod",
+        "body": "# 🖼️ The Creative Toggle Mods default Texture Pack\n\nThe Creative Toggle Mods default Texture Pack lets you change the textures of the [Creative Toggle Mod](https://modrinth.com/mod/creativetoogle).\nYou can use it if you want to change the mod textures.It Includes **Every** Texture and texture files of the mod version.Its neccesary to install the mod,otherwise the texture pack will do nothing\n\n---\n\n# 🚀 Changelog and Roadmap \n\n| Textures | 1.0.0 | 1.1.0 |\n|------|-------------|------|\n| Creative Toggle Mod Icon |  ✅  | ✅ |\n| English Lang files | ✅ | ✅ |\n| German Lang files | ✅ | ✅ |\n| Frensh Lang files | ✅ | ✅ ||\n| Russian Lang files | ✅ | ✅ |\n| Portuguese Lang files | ✅ | ✅ |\n| English Accent Lang files | ❌ | ✅ |\n| German Accent Lang files | ❌ | ✅ |\n| Frensh Accent Lang files | ❌ | ✅ ||\n| Russian Accent Lang files | ❌ | ✅ |\n| Portuguese Accent Lang files | ❌ | ✅ |\n\n\n---\n\n# Examples:\n\n## The Key Change Screen\n\nHere you can change the text and add new languages\n\n![Key Change Screen](https://cdn.modrinth.com/data/8EDtBDjA/images/353053803881fee6094373789c530c687a631f53.png)\n\n## The Settings Key Change Method\n\nHere you can change the text and add new languages\n\n![Settings Key Change Screen](https://cdn.modrinth.com/data/8EDtBDjA/images/b7327b5990e710be92c4ded1f704f431db84cc00.png)",
+        "body_url": null,
+        "published": "2026-06-16T12:29:17.532932Z",
+        "updated": "2026-06-16T12:35:15.301009Z",
+        "approved": "2026-06-19T06:07:03.526499Z",
+        "queued": "2026-06-16T16:55:00.019211Z",
+        "status": "approved",
+        "requested_status": "private",
+        "moderator_message": null,
+        "license": {
+          "id": "MIT",
+          "name": "MIT License",
+          "url": null
+        },
+        "downloads": 8,
+        "followers": 0,
+        "categories": [
+          "16x",
+          "gui",
+          "tweaks"
+        ],
+        "additional_categories": [
+          "vanilla-like"
+        ],
+        "loaders": [
+          "minecraft"
+        ],
+        "versions": [
+          "pGU46p3F"
+        ],
+        "icon_url": "https://cdn.modrinth.com/data/ErFdq60k/3190b1535fdae4df135445fea8c93601fa594414.png",
+        "issues_url": "https://github.com/Mano-Craft/Creative-Toogle/issues",
+        "source_url": null,
+        "wiki_url": null,
+        "discord_url": null,
+        "donation_urls": [],
+        "gallery": [
+          {
+            "url": "https://cdn.modrinth.com/data/ErFdq60k/images/353053803881fee6094373789c530c687a631f53_350.webp",
+            "raw_url": "https://cdn.modrinth.com/data/ErFdq60k/images/353053803881fee6094373789c530c687a631f53.png",
+            "featured": true,
+            "title": "Key Change Menu",
+            "description": "This is an example for what you can change.Here you can add new languages and change the text.",
+            "created": "2026-06-16T16:25:30.687271Z",
+            "ordering": 0
+          },
+          {
+            "url": "https://cdn.modrinth.com/data/ErFdq60k/images/b7327b5990e710be92c4ded1f704f431db84cc00_350.webp",
+            "raw_url": "https://cdn.modrinth.com/data/ErFdq60k/images/b7327b5990e710be92c4ded1f704f431db84cc00.png",
+            "featured": false,
+            "title": "Settings Key Change Screen",
+            "description": "This is an example for what you can change.Here you can add new languages and change the text.",
+            "created": "2026-06-16T16:49:09.758408Z",
+            "ordering": 1
+          }
+        ],
+        "color": 11842748,
+        "thread_id": "eNK5WMGs",
+        "monetization_status": "monetized"
+      },
+      "versions": {
+        "value": [
+          {
+            "game_versions": [
+              "26.1.2"
+            ],
+            "loaders": [
+              "minecraft"
+            ],
+            "id": "pGU46p3F",
+            "project_id": "ErFdq60k",
+            "author_id": "vGg3K0M2",
+            "featured": false,
+            "name": "Creative Toggle Default Texture Pack 1.0.0",
+            "version_number": "1.0.0",
+            "changelog": "This is the first version of the default texturepack for the [Creative Toggle Mod](https://modrinth.com/mod/creativetoogle)\n\n## Added Textures :\n- English Lang file\n- German Lang file\n- Frensh Lang file\n- Portuguese Lang file\n- Russian Lang file\n# Its neccesary to install the mod,otherwise the texture pack will do nothing \n( I recommend to use the 1.0.0 mod file for this version )\n",
+            "changelog_url": null,
+            "date_published": "2026-06-16T12:35:15.301009Z",
+            "downloads": 5,
+            "version_type": "release",
+            "status": "listed",
+            "requested_status": null,
+            "files": [
+              {
+                "id": "fMZR5OXv",
+                "hashes": {
+                  "sha1": "f00c7feaa14c7b01381ba51a8cf462620c56ed61",
+                  "sha512": "a7a950d38259987b4cf50d6c958d4fc6d5e45be976b2e8869a01248d69d9eefc570293087ddc44b25204bbd2d03d1695878d65878cde6c4a0ba78fa8d8329bd6"
+                },
+                "url": "https://cdn.modrinth.com/data/ErFdq60k/versions/pGU46p3F/creative-toggle-fabric-default-texture-pack-1.0.0.zip",
+                "filename": "creative-toggle-fabric-default-texture-pack-1.0.0.zip",
+                "primary": true,
+                "size": 4783,
+                "file_type": null
+              }
+            ],
+            "dependencies": [
+              {
+                "version_id": "T8Av4LjQ",
+                "project_id": "8EDtBDjA",
+                "file_name": null,
+                "dependency_type": "required"
+              }
+            ]
+          }
+        ],
+        "Count": 1
+      },
+      "github_readme": {
+        "source": "GitHub Mano-Craft/docs.manocraft.de/content/creative-toggle-default-texture-pack.md",
+        "localPath": "content/creative-toggle-default-texture-pack.md",
+        "url": "https://raw.githubusercontent.com/Mano-Craft/docs.manocraft.de/main/content/creative-toggle-default-texture-pack.md",
+        "content": "# The Creative Toggle Mods default Texture Pack\n\nThe Creative Toggle Mods default Texture Pack lets you change the textures of the [Creative Toggle Mod](https://modrinth.com/mod/creativetoggle).\nYou can use it if you want to change the mod textures. It includes every texture and texture file of the mod version.\n\nIt is necessary to install the mod, otherwise the texture pack will do nothing.\n\n---\n\n# Changelog and Roadmap\n\n| Textures | 1.0.0 | 1.1.0 |\n|---|---|---|\n| English Lang file | yes | yes |\n| German Lang file | yes | yes |\n| French Lang file | yes | yes |\n| Portuguese Lang file | yes | yes |\n| Russian Lang file | yes | yes |\n| Accent Lang files | no | yes |\n\n---\n\n# Examples\n\n## The Key Change Screen\n\nHere you can change the text and add new languages.\n\n![Key Change Screen](https://cdn.modrinth.com/data/8EDtBDjA/images/353053803881fee6094373789c530c687a631f53.png)\n\n## The Settings Key Change Method\n\nHere you can change the text and add new languages.\n\n![Settings Key Change Screen](https://cdn.modrinth.com/data/8EDtBDjA/images/b7327b5990e710be92c4ded1f704f431db84cc00.png)\n\n"
+      }
+    },
+    {
+      "project": {
+        "client_side": "required",
+        "server_side": "unsupported",
+        "game_versions": [
+          "26.1.2"
+        ],
+        "id": "j2pOvFTl",
+        "slug": "emeraldsplusdefaulttexturepack",
+        "project_type": "resourcepack",
+        "team": "MxKxPPIv",
+        "organization": null,
+        "title": "Emeralds Plus Default Texture Pack",
+        "description": "This is the Default Texture Pack of The Emeralds Plus Mod.",
+        "body": "# 🖼️ The Emeralds Plus Mods default Texture Pack\n\nThe Emeralds Plus Mods default Texture Pack lets you change the textures of the [Emeralds Plus Mod](https://modrinth.com/mods/emeraldsplus).\nYou can use it if you want to change the mod textures.It Includes **Every** Texture and texture files of the mod version.Its neccesary to install the mod,otherwise the texture pack will do nothing\n\n---\n\n# 🚀 Changelog and Roadmap \n\n| Textures | 0.9.0 | 0.9.1 | 0.9.2 | 1.0.0 | 2.0.0 | 2.1.0 |\n|------|-------------|------|------|-------------|------|---|\n| Emerald Upgrade Texture |  ✅  | ✅ | ✅ | ✅ | ✅ | ✅ |\n| Emerald Armor Texture |  ✅  | ✅ | ✅ | ✅ | ✅ | ✅ |\n| Emerald Sword Texture |  ✅  | ✅ | ✅ | ✅ | ✅ | ✅ |\n| Emerald Axe Texture |  ✅  | ✅ | ✅ | ✅ | ✅ | ✅ |\n| Emerald Pickaxe Texture |  ✅  | ✅ | ✅ | ✅ | ✅ | ✅ |\n| Emerald Shovel Texture |  ✅  | ✅ | ✅ | ✅ | ✅ | ✅ |\n| Emerald Hoe Texture |  ✅  | ✅ | ✅ | ✅ | ✅ | ✅ |\n| Emeralds Plus Mod Icon |  ✅  | ✅ | ✅ | ✅ | ✅ | ✅ |\n| English Lang files | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |\n| German Lang files | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ |\n| Frensh Lang files | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ |\n| Russian Lang files | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ |\n| Portuguese Lang files | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ |\n| Emerald Shield | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ |\n| Emerald Entchantment Textures | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ |\n| Emerald Speer Texture | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |\n\n---\n\n# Examples:\n\n## ⏫ Emerald Upgrade Texture\n\n![Emerald Upgrade](https://cdn.modrinth.com/data/GPBU7vIp/images/c36c5af56952707c816bacc797f0a1f4060c6dc4.png)\n\n## 🛡️ Emerald Armor Texture\n\n![Emerald Armor](https://cdn.modrinth.com/data/GPBU7vIp/images/8bc0dbe1e9a97973d0f39c11be0e0f876eaa0c5c.png)",
+        "body_url": null,
+        "published": "2026-06-15T16:50:18.041855Z",
+        "updated": "2026-06-15T19:23:41.556921Z",
+        "approved": "2026-06-19T03:47:26.760043Z",
+        "queued": "2026-06-15T20:00:22.582973Z",
+        "status": "approved",
+        "requested_status": "approved",
+        "moderator_message": null,
+        "license": {
+          "id": "MIT",
+          "name": "MIT License",
+          "url": null
+        },
+        "downloads": 12,
+        "followers": 0,
+        "categories": [
+          "decoration",
+          "equipment",
+          "items"
+        ],
+        "additional_categories": [
+          "16x"
+        ],
+        "loaders": [
+          "minecraft"
+        ],
+        "versions": [
+          "y5Li9qz9"
+        ],
+        "icon_url": "https://cdn.modrinth.com/data/j2pOvFTl/84dff7f78f6b90b2d93b19c93d3f70b69075fa7d.png",
+        "issues_url": "https://github.com/Mano-Craft/Emeralds-plus/issues",
+        "source_url": null,
+        "wiki_url": null,
+        "discord_url": null,
+        "donation_urls": [],
+        "gallery": [
+          {
+            "url": "https://cdn.modrinth.com/data/j2pOvFTl/images/bb63bf40af61ec8afcca0588258f14f1cd6967ad_350.webp",
+            "raw_url": "https://cdn.modrinth.com/data/j2pOvFTl/images/bb63bf40af61ec8afcca0588258f14f1cd6967ad.png",
+            "featured": true,
+            "title": "The Emeralds Plus Mod Textures",
+            "description": "These are all the Emeralds Plus Mod Textures.",
+            "created": "2026-06-15T19:19:20.613813Z",
+            "ordering": 0
+          }
+        ],
+        "color": 6347872,
+        "thread_id": "i6P4GFHn",
+        "monetization_status": "monetized"
+      },
+      "versions": {
+        "value": [
+          {
+            "game_versions": [
+              "26.1.2"
+            ],
+            "loaders": [
+              "minecraft"
+            ],
+            "id": "y5Li9qz9",
+            "project_id": "j2pOvFTl",
+            "author_id": "vGg3K0M2",
+            "featured": false,
+            "name": "Emeralds Plus Default texture Pack 0.9.0",
+            "version_number": "0.9.0",
+            "changelog": "This is the first version of the default texturepack for the [Emeralds Plus Mod](https://modrinth.com/mods/emeraldsplus)\n\n## Added Textures :\n- Emerald Sword\n- Emerald Axe\n- Emerald Pickaxe\n- Emerald Shovel\n- Emerald Hoe\n- Emerald Armor\n- Emeralds Plus Mod Icon\n- Lang files for English\n\n# Its neccesary to install the mod,otherwise the texture pack will do nothing \n( I recommend to use the 0.9.0 mod file for this version )",
+            "changelog_url": null,
+            "date_published": "2026-06-15T19:23:41.556921Z",
+            "downloads": 11,
+            "version_type": "beta",
+            "status": "listed",
+            "requested_status": null,
+            "files": [
+              {
+                "id": "gMeSzljV",
+                "hashes": {
+                  "sha512": "89221dfb369459f0420151b94f42d9ddf78ecf70750b060aab2d122e069de315f796bf1762f0a76e4f07f89218803817c22240bf278f15a31e34b3c22a61d458",
+                  "sha1": "f04e24568effe6b9e5fea9b0a9efcd7c7f8a3853"
+                },
+                "url": "https://cdn.modrinth.com/data/j2pOvFTl/versions/y5Li9qz9/emeraldsplus-fabric-default-texture-pack-0.9.0%2Bmc26.1.2.zip",
+                "filename": "emeraldsplus-fabric-default-texture-pack-0.9.0+mc26.1.2.zip",
+                "primary": true,
+                "size": 17661,
+                "file_type": null
+              }
+            ],
+            "dependencies": [
+              {
+                "version_id": "BS8FwKYP",
+                "project_id": "GPBU7vIp",
+                "file_name": null,
+                "dependency_type": "required"
+              }
+            ]
+          }
+        ],
+        "Count": 1
+      },
+      "github_readme": {
+        "source": "GitHub Mano-Craft/docs.manocraft.de/content/emeralds-plus-default-texture-pack.md",
+        "localPath": "content/emeralds-plus-default-texture-pack.md",
+        "url": "https://raw.githubusercontent.com/Mano-Craft/docs.manocraft.de/main/content/emeralds-plus-default-texture-pack.md",
+        "content": "# The Emeralds Plus Mods default Texture Pack\n\nThe Emeralds Plus Mods default Texture Pack lets you change the textures of the [Emeralds Plus Mod](https://modrinth.com/mod/emeraldsplus).\nYou can use it if you want to change the mod textures. It includes every texture and texture file of the mod version.\n\nIt is necessary to install the mod, otherwise the texture pack will do nothing.\n\n---\n\n# Changelog and Roadmap\n\n| Textures | 0.9.0 | 0.9.1 | 0.9.2 | 1.0.0 | 2.0.0 | 2.1.0 |\n|---|---|---|---|---|---|---|\n| Emerald Upgrade Texture | yes | yes | yes | yes | yes | yes |\n| Emerald Armor Texture | yes | yes | yes | yes | yes | yes |\n| Emerald Sword Texture | yes | yes | yes | yes | yes | yes |\n| Emerald Axe Texture | yes | yes | yes | yes | yes | yes |\n| Emerald Pickaxe Texture | yes | yes | yes | yes | yes | yes |\n| Emerald Shovel Texture | yes | yes | yes | yes | yes | yes |\n| Emerald Hoe Texture | yes | yes | yes | yes | yes | yes |\n| Emeralds Plus Mod Icon | yes | yes | yes | yes | yes | yes |\n| English Lang files | yes | yes | yes | yes | yes | yes |\n| German/French/Russian/Portuguese Lang files | no | yes | yes | yes | yes | yes |\n| Emerald Shield | no | no | no | yes | yes | yes |\n| Emerald Enchantment Textures | no | no | no | no | yes | yes |\n| Emerald Spear Texture | no | no | no | no | no | yes |\n\n---\n\n# Examples\n\n## Emerald Upgrade Texture\n\n![Emerald Upgrade](https://cdn.modrinth.com/data/GPBU7vIp/images/c36c5af56952707c816bacc797f0a1f4060c6dc4.png)\n\n## Emerald Armor Texture\n\n![Emerald Armor](https://cdn.modrinth.com/data/GPBU7vIp/images/8bc0dbe1e9a97973d0f39c11be0e0f876eaa0c5c.png)\n\n"
+      }
+    }
+  ],
+  "github": [
+    {
+      "id": 1277991608,
+      "node_id": "R_kgDOTCyauA",
+      "name": "docs.manocraft.de",
+      "full_name": "Mano-Craft/docs.manocraft.de",
+      "private": false,
+      "owner": {
+        "login": "Mano-Craft",
+        "id": 292151235,
+        "node_id": "U_kgDOEWnfww",
+        "avatar_url": "https://avatars.githubusercontent.com/u/292151235?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Mano-Craft",
+        "html_url": "https://github.com/Mano-Craft",
+        "followers_url": "https://api.github.com/users/Mano-Craft/followers",
+        "following_url": "https://api.github.com/users/Mano-Craft/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Mano-Craft/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Mano-Craft/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Mano-Craft/subscriptions",
+        "organizations_url": "https://api.github.com/users/Mano-Craft/orgs",
+        "repos_url": "https://api.github.com/users/Mano-Craft/repos",
+        "events_url": "https://api.github.com/users/Mano-Craft/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Mano-Craft/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/Mano-Craft/docs.manocraft.de",
+      "description": null,
+      "fork": false,
+      "url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de",
+      "forks_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/forks",
+      "keys_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/teams",
+      "hooks_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/hooks",
+      "issue_events_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/events",
+      "assignees_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/tags",
+      "blobs_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/languages",
+      "stargazers_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/stargazers",
+      "contributors_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/contributors",
+      "subscribers_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/subscribers",
+      "subscription_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/subscription",
+      "commits_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/merges",
+      "archive_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/downloads",
+      "issues_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/labels{/name}",
+      "releases_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/Mano-Craft/docs.manocraft.de/deployments",
+      "created_at": "2026-06-23T11:14:29Z",
+      "updated_at": "2026-06-23T11:18:31Z",
+      "pushed_at": "2026-06-23T11:18:27Z",
+      "git_url": "git://github.com/Mano-Craft/docs.manocraft.de.git",
+      "ssh_url": "git@github.com:Mano-Craft/docs.manocraft.de.git",
+      "clone_url": "https://github.com/Mano-Craft/docs.manocraft.de.git",
+      "svn_url": "https://github.com/Mano-Craft/docs.manocraft.de",
+      "homepage": null,
+      "size": 35,
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "language": "JavaScript",
+      "has_issues": true,
+      "has_projects": true,
+      "has_downloads": true,
+      "has_wiki": true,
+      "has_pages": true,
+      "has_discussions": false,
+      "forks_count": 0,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 0,
+      "license": null,
+      "allow_forking": true,
+      "is_template": false,
+      "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
+      "topics": [],
+      "visibility": "public",
+      "forks": 0,
+      "open_issues": 0,
+      "watchers": 0,
+      "default_branch": "main"
+    },
+    {
+      "id": 1264269447,
+      "node_id": "R_kgDOS1s4hw",
+      "name": "Emeralds-Plus",
+      "full_name": "Mano-Craft/Emeralds-Plus",
+      "private": false,
+      "owner": {
+        "login": "Mano-Craft",
+        "id": 292151235,
+        "node_id": "U_kgDOEWnfww",
+        "avatar_url": "https://avatars.githubusercontent.com/u/292151235?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Mano-Craft",
+        "html_url": "https://github.com/Mano-Craft",
+        "followers_url": "https://api.github.com/users/Mano-Craft/followers",
+        "following_url": "https://api.github.com/users/Mano-Craft/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Mano-Craft/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Mano-Craft/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Mano-Craft/subscriptions",
+        "organizations_url": "https://api.github.com/users/Mano-Craft/orgs",
+        "repos_url": "https://api.github.com/users/Mano-Craft/repos",
+        "events_url": "https://api.github.com/users/Mano-Craft/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Mano-Craft/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/Mano-Craft/Emeralds-Plus",
+      "description": null,
+      "fork": false,
+      "url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus",
+      "forks_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/forks",
+      "keys_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/teams",
+      "hooks_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/hooks",
+      "issue_events_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/events",
+      "assignees_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/tags",
+      "blobs_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/languages",
+      "stargazers_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/stargazers",
+      "contributors_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/contributors",
+      "subscribers_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/subscribers",
+      "subscription_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/subscription",
+      "commits_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/merges",
+      "archive_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/downloads",
+      "issues_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/labels{/name}",
+      "releases_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/Mano-Craft/Emeralds-Plus/deployments",
+      "created_at": "2026-06-09T18:16:34Z",
+      "updated_at": "2026-06-22T14:50:25Z",
+      "pushed_at": "2026-06-22T14:48:43Z",
+      "git_url": "git://github.com/Mano-Craft/Emeralds-Plus.git",
+      "ssh_url": "git@github.com:Mano-Craft/Emeralds-Plus.git",
+      "clone_url": "https://github.com/Mano-Craft/Emeralds-Plus.git",
+      "svn_url": "https://github.com/Mano-Craft/Emeralds-Plus",
+      "homepage": "https://modrinth.com/mod/emeraldsplus",
+      "size": 453,
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "language": "Java",
+      "has_issues": true,
+      "has_projects": true,
+      "has_downloads": true,
+      "has_wiki": false,
+      "has_pages": true,
+      "has_discussions": false,
+      "forks_count": 0,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 0,
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "allow_forking": true,
+      "is_template": false,
+      "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
+      "topics": [],
+      "visibility": "public",
+      "forks": 0,
+      "open_issues": 0,
+      "watchers": 0,
+      "default_branch": "main"
+    },
+    {
+      "id": 1267751167,
+      "node_id": "R_kgDOS5BY_w",
+      "name": "Creative-Toogle",
+      "full_name": "Mano-Craft/Creative-Toogle",
+      "private": false,
+      "owner": {
+        "login": "Mano-Craft",
+        "id": 292151235,
+        "node_id": "U_kgDOEWnfww",
+        "avatar_url": "https://avatars.githubusercontent.com/u/292151235?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Mano-Craft",
+        "html_url": "https://github.com/Mano-Craft",
+        "followers_url": "https://api.github.com/users/Mano-Craft/followers",
+        "following_url": "https://api.github.com/users/Mano-Craft/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Mano-Craft/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Mano-Craft/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Mano-Craft/subscriptions",
+        "organizations_url": "https://api.github.com/users/Mano-Craft/orgs",
+        "repos_url": "https://api.github.com/users/Mano-Craft/repos",
+        "events_url": "https://api.github.com/users/Mano-Craft/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Mano-Craft/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/Mano-Craft/Creative-Toogle",
+      "description": null,
+      "fork": false,
+      "url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle",
+      "forks_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/forks",
+      "keys_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/teams",
+      "hooks_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/hooks",
+      "issue_events_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/events",
+      "assignees_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/tags",
+      "blobs_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/languages",
+      "stargazers_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/stargazers",
+      "contributors_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/contributors",
+      "subscribers_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/subscribers",
+      "subscription_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/subscription",
+      "commits_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/merges",
+      "archive_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/downloads",
+      "issues_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/labels{/name}",
+      "releases_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/Mano-Craft/Creative-Toogle/deployments",
+      "created_at": "2026-06-12T20:38:02Z",
+      "updated_at": "2026-06-21T18:46:30Z",
+      "pushed_at": "2026-06-21T18:46:26Z",
+      "git_url": "git://github.com/Mano-Craft/Creative-Toogle.git",
+      "ssh_url": "git@github.com:Mano-Craft/Creative-Toogle.git",
+      "clone_url": "https://github.com/Mano-Craft/Creative-Toogle.git",
+      "svn_url": "https://github.com/Mano-Craft/Creative-Toogle",
+      "homepage": "https://modrinth.com/mods/creativetoggle",
+      "size": 52,
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "language": "Java",
+      "has_issues": true,
+      "has_projects": true,
+      "has_downloads": true,
+      "has_wiki": false,
+      "has_pages": false,
+      "has_discussions": false,
+      "forks_count": 0,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 0,
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "allow_forking": true,
+      "is_template": false,
+      "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
+      "topics": [],
+      "visibility": "public",
+      "forks": 0,
+      "open_issues": 0,
+      "watchers": 0,
+      "default_branch": "main"
+    }
+  ],
+  "custom_license": {
+    "source": "https://github.com/Mano-Craft/Creative-Toogle/blob/main/LICENSE",
+    "content": "Custom License\r\n\r\nCopyright (c) 2026 Mano Craft\r\n\r\nPermission is hereby granted to any person obtaining a copy of this software (\"the Mod\") to:\r\n\r\n- Download and use the Mod for personal or commercial gameplay.\r\n- Modify the Mod for private, personal use only.\r\n- Create and publish videos, livestreams, screenshots, and other media featuring the original or privately modified version of the Mod, provided appropriate credit is given to the original author.\r\n\r\nThe following actions are NOT permitted without prior written permission from the copyright holder:\r\n\r\n- Redistributing the original Mod, in whole or in part.\r\n- Redistributing, publishing, or sharing modified versions of the Mod.\r\n- Including the Mod or modified versions in modpacks that rehost the files instead of linking to the official download page.\r\n- Claiming authorship or ownership of the Mod or any substantial portion of it.\r\n- Removing or altering copyright notices, credits, or this license.\r\n\r\nCredit Requirements\r\n\r\nWhen showcasing the Mod in videos, livestreams, articles, or other public content, you must:\r\n\r\n- Clearly credit the original author.\r\n- Provide a link to the official Modrinth or GitHub project page whenever reasonably possible.\r\n\r\nDisclaimer\r\n\r\nTHE MOD IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE MOD.\r\n\r\nFor permissions beyond those granted in this license, please contact the copyright holder."
+  },
+  "downloads_updated_at": "2026-06-24T16:46:32.908Z"
+}

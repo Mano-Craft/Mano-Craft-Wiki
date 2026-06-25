@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "refresh:data": "node scripts/update-data.mjs",
+    "generate": "node scripts/generate-site.mjs",
+    "refresh": "npm run refresh:data && npm run generate",
+    "build": "retype build",
+    "start": "retype watch"
+  },
+  "dependencies": {
+    "retypeapp": "^3.11.0"
+  }
+}

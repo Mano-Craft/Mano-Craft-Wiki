@@ -1,0 +1,32 @@
+input: .
+output: .retype
+
+url: https://mano-craft.github.io/Manocraft-wiki
+
+exclude:
+  - "_niklas_reference"
+  - "mano_data.json"
+  - "scripts"
+  - "content"
+  - "node_modules"
+  - "package-lock.json"
+
+branding:
+  title: Mano-Craft
+  label: Docs
+
+links:
+  - text: Modrinth
+    link: https://modrinth.com/user/Mano-Craft
+    icon: package
+  - text: GitHub
+    link: https://github.com/Mano-Craft
+    icon: mark-github
+
+footer:
+  copyright: "&copy; {{ year }} [Mano-Craft](https://github.com/Mano-Craft). Projektlinks führen zu den offiziellen Seiten."
+
+generator:
+  paths: root
+
+locale: en
