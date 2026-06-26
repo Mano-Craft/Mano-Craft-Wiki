@@ -29,7 +29,7 @@ Contains Creative Toggle's default mod textures and language files for visual or
 <p class="mc-changelog-label">Latest Modrinth changelog</p>
 <p class="mc-changelog-version">Version 1.1.0</p>
 
-This is the 1.1.0 version of the default texturepack for the [Creative Toggle Mod](https://mano-craft.github.io/Manocraft-wiki/projects/creative-toggle/)
+This is the 1.1.0 version of the default texturepack for the [Creative Toggle Mod](https://mano-craft.github.io/Mano-Craft-Wiki/projects/creative-toggle/)
 Added textures:
 - Lang files for every accent of this languages:
   - German
@@ -50,7 +50,7 @@ Added textures:
 
 # The Creative Toggle Mods default Texture Pack
 
-The Creative Toggle Mods default Texture Pack lets you change the textures of the [Creative Toggle Mod](https://mano-craft.github.io/Manocraft-wiki/projects/creative-toggle/).
+The Creative Toggle Mods default Texture Pack lets you change the textures of the [Creative Toggle Mod](https://mano-craft.github.io/Mano-Craft-Wiki/projects/creative-toggle/).
 You can use it if you want to change the mod textures. It includes every texture and texture file of the mod version.
 
 It is necessary to install the mod, otherwise the texture pack will do nothing.

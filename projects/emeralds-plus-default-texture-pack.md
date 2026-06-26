@@ -29,7 +29,7 @@ Contains the default texture files for Emeralds Plus so creators can inspect and
 <p class="mc-changelog-label">Latest Modrinth changelog</p>
 <p class="mc-changelog-version">Version 0.9.0</p>
 
-This is the first version of the default texturepack for the [Emeralds Plus Mod](https://mano-craft.github.io/Manocraft-wiki/projects/emeralds-plus/)
+This is the first version of the default texturepack for the [Emeralds Plus Mod](https://mano-craft.github.io/Mano-Craft-Wiki/projects/emeralds-plus/)
 
 ## Added Textures :
 - Emerald Sword
@@ -54,7 +54,7 @@ This is the first version of the default texturepack for the [Emeralds Plus Mod]
 
 # The Emeralds Plus Mods default Texture Pack
 
-The Emeralds Plus Mods default Texture Pack lets you change the textures of the [Emeralds Plus Mod](https://modrinth.com/mod/emeraldsplus).
+The Emeralds Plus Mods default Texture Pack lets you change the textures of the [Emeralds Plus Mod](https://mano-craft.github.io/Mano-Craft-Wiki/projects/emeralds-plus/).
 You can use it if you want to change the mod textures. It includes every texture and texture file of the mod version.
 
 It is necessary to install the mod, otherwise the texture pack will do nothing.
