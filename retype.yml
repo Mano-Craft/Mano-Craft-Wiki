@@ -24,7 +24,7 @@ links:
     icon: mark-github
 
 footer:
-  copyright: "&copy; {{ year }} [Mano-Craft](https://github.com/Mano-Craft). Projektlinks führen zu den offiziellen Seiten."
+  copyright: "&copy; {{ year }} [Mano-Craft](https://github.com/Mano-Craft). Project links lead to the official pages."
 
 generator:
   paths: root
