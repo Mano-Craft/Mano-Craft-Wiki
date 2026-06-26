@@ -19,7 +19,7 @@ Adds an F3 + X shortcut that switches to Creative Mode and returns to the previo
 | Minecraft versions | 1.21, 1.21.1, 1.21.2, 1.21.3, 1.21.4, 1.21.5, 1.21.6, 1.21.7, 1.21.8, 1.21.9, 1.21.10, 1.21.11, 26.1, 26.1.1, 26.1.2, 26.2 |
 | Downloads | 118 |
 | Latest version | 1.1.0 |
-| Listed versions | 1.0.0 |
+| Listed versions | 1.0.0 , 1.1.0 |
 | Last update | 2026-06-13 |
 | Issues | [GitHub Issues](https://github.com/Mano-Craft/Creative-Toogle/issues) |
 
