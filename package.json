@@ -2,7 +2,7 @@
   "scripts": {
     "refresh:data": "node scripts/update-data.mjs",
     "generate": "node scripts/generate-site.mjs",
-    "refresh": "npm run refresh:data && npm run generate",
+    "refresh": "npm run refresh:data",
     "build": "retype build",
     "start": "retype watch"
   },

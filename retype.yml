@@ -1,7 +1,7 @@
 input: .
 output: .retype
 
-url: https://mano-craft.github.io/Manocraft-wiki
+url: https://mano-craft.github.io/Mano-Craft-Wiki/
 
 exclude:
   - "_niklas_reference"
