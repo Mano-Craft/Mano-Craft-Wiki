@@ -52,7 +52,7 @@ This is the first version of the default texturepack for the [Emeralds Plus Mod]
 <figure><img src="https://cdn.modrinth.com/data/j2pOvFTl/images/bb63bf40af61ec8afcca0588258f14f1cd6967ad.png" alt="The Emeralds Plus Mod Textures"><figcaption>The Emeralds Plus Mod Textures</figcaption></figure>
 </div>
 
-# The Emeralds Plus Mods default Texture Pack
+# 🖼️ The Emeralds Plus Mods default Texture Pack
 
 The Emeralds Plus Mods default Texture Pack lets you change the textures of the [Emeralds Plus Mod](https://mano-craft.github.io/Mano-Craft-Wiki/projects/emeralds-plus/).
 You can use it if you want to change the mod textures. It includes every texture and texture file of the mod version.
@@ -86,11 +86,11 @@ It is necessary to install the mod, otherwise the texture pack will do nothing.
 
 # Examples
 
-## Emerald Upgrade Texture
+## ⏫ Emerald Upgrade Texture
 
 ![Emerald Upgrade](https://cdn.modrinth.com/data/GPBU7vIp/images/c36c5af56952707c816bacc797f0a1f4060c6dc4.png)
 
-## Emerald Armor Texture
+## 🛡️ Emerald Armor Texture
 
 ![Emerald Armor](https://cdn.modrinth.com/data/GPBU7vIp/images/8bc0dbe1e9a97973d0f39c11be0e0f876eaa0c5c.png)
 

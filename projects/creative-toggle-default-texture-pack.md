@@ -48,7 +48,7 @@ Added textures:
 <figure><img src="https://cdn.modrinth.com/data/ErFdq60k/images/b7327b5990e710be92c4ded1f704f431db84cc00.png" alt="Settings Key Change Screen"><figcaption>Settings Key Change Screen</figcaption></figure>
 </div>
 
-# The Creative Toggle Mods default Texture Pack
+# 🖼️ The Creative Toggle Mods default Texture Pack
 
 The Creative Toggle Mods default Texture Pack lets you change the textures of the [Creative Toggle Mod](https://mano-craft.github.io/Mano-Craft-Wiki/projects/creative-toggle/).
 You can use it if you want to change the mod textures. It includes every texture and texture file of the mod version.
@@ -57,7 +57,7 @@ It is necessary to install the mod, otherwise the texture pack will do nothing.
 
 ---
 
-# Changelog and Roadmap
+# 🚀 Changelog and Roadmap
 
 | Textures | 1.0.0 | 1.1.0 |
 |---|---|---|
