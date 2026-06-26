@@ -4,7 +4,7 @@ icon: "https://cdn.modrinth.com/data/ErFdq60k/3190b1535fdae4df135445fea8c93601fa
 order: 100
 ---
 
-# Creative Toggle Default Texture Pack
+# 🖼️ Creative Toggle Default Texture Pack
 
 !!!success Project links
 No files are mirrored here and there are no direct downloads. Use the official project pages: [Modrinth](https://modrinth.com/resourcepack/creative-toggle-default-texture-pack) | [GitHub](https://github.com/Mano-Craft/Creative-Toogle) | [Issues](https://github.com/Mano-Craft/Creative-Toogle/issues)

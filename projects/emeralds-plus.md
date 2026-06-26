@@ -4,7 +4,7 @@ icon: "https://cdn.modrinth.com/data/GPBU7vIp/84dff7f78f6b90b2d93b19c93d3f70b690
 order: 100
 ---
 
-# Emeralds Plus
+# 💚 Emeralds Plus
 
 !!!success Project links
 No files are mirrored here and there are no direct downloads. Use the official project pages: [Modrinth](https://modrinth.com/mod/emeraldsplus) | [GitHub](https://github.com/Mano-Craft/Emeralds-plus) | [Issues](https://github.com/Mano-Craft/Emeralds-plus/issues)

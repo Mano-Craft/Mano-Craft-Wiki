@@ -4,7 +4,7 @@ icon: "https://cdn.modrinth.com/data/8EDtBDjA/3190b1535fdae4df135445fea8c93601fa
 order: 100
 ---
 
-# Creative Toggle
+# ⚙️ Creative Toggle
 
 !!!success Project links
 No files are mirrored here and there are no direct downloads. Use the official project pages: [Modrinth](https://modrinth.com/mod/creativetoggle) | [GitHub](https://github.com/Mano-Craft/Creative-Toogle) | [Issues](https://github.com/Mano-Craft/Creative-Toogle/issues)
@@ -29,7 +29,7 @@ Adds an F3 + X shortcut that switches to Creative Mode and returns to the previo
 <p class="mc-changelog-label">Latest Modrinth changelog</p>
 <p class="mc-changelog-version">Version 1.1.0</p>
 
-# The Creative Toggle Mod
+# ⚙️ The Creative Toggle Mod
 
 ### Added new  Accents for English , German , Frensh , Portuguese and Russian.
 For Example : If you have portuguese brazil activated it also workes ( before only portuguese in portugal worked )

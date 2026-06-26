@@ -4,7 +4,7 @@ icon: "https://cdn.modrinth.com/data/j2pOvFTl/84dff7f78f6b90b2d93b19c93d3f70b690
 order: 100
 ---
 
-# Emeralds Plus Default Texture Pack
+# 🖼️ Emeralds Plus Default Texture Pack
 
 !!!success Project links
 No files are mirrored here and there are no direct downloads. Use the official project pages: [Modrinth](https://modrinth.com/resourcepack/emeraldsplusdefaulttexturepack) | [GitHub](https://github.com/Mano-Craft/Emeralds-plus) | [Issues](https://github.com/Mano-Craft/Emeralds-plus/issues)
