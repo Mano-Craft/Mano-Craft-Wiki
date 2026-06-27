@@ -2,8 +2,6 @@
 visibility: hidden
 ---
 
-# test123
-
 # Mano Craft Wiki
 
 Minecraft mods, texture packs, and source projects in one documentation hub. This site mirrors the public Mano Craft catalog from Modrinth and GitHub, but keeps every project link pointed at the official project pages.
