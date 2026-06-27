@@ -17,19 +17,28 @@ Adds emerald armor, emerald tools, and an Emerald Upgrade template for a gear ti
 | Type | Mod |
 | Loader | fabric |
 | Minecraft versions | 26.1.2 |
-| Downloads | 44 |
-| Latest version | 0.9.0 |
-| Listed versions | 0.9.0 |
-| Last update | 2026-06-11 |
+| Downloads | 46|
+| Latest version | 0.9.1|
+| Listed versions | 0.9.0 , 0.9.1|
+| Last update | 2026-06-27 |
 | Issues | [GitHub Issues](https://github.com/Mano-Craft/Emeralds-plus/issues) |
 
 ## Latest Changelog
 
 <section class="mc-changelog-box" markdown="1">
 <p class="mc-changelog-label">Latest Modrinth changelog</p>
-<p class="mc-changelog-version">Version 0.9.0</p>
+<p class="mc-changelog-version">Version 0.9.1</p>
 
-## This is the first version of the mod it containes: The Emerald Tools , Emerald Armor and Emerald Upgrade.See the Mod guide in the description.![Emerald Plus](https://cdn.modrinth.com/data/cached_images/c36c5af56952707c816bacc797f0a1f4060c6dc4.png)
+### Added new 5 Languages and her  Accents
+
+---
+
+## Languages
+
+| Version | English | Portuguese | Russian | Frensh | German |
+|------|-------------|------|------|-------------|------|
+| 0.9.1   |  ✅  | ✅ | ✅ | ✅ | ✅ |
+| 0.9.0   |  ✅  | ❌  | ❌ | ❌ | ❌ |
 
 </section>
 
