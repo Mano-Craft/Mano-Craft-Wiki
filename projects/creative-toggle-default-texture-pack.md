@@ -17,7 +17,7 @@ Contains Creative Toggle's default mod textures and language files for visual or
 | Type | Resource pack |
 | Loader | minecraft |
 | Minecraft versions | 26.1.2 |
-| Downloads | 8 |
+| Downloads | 15 |
 | Latest version | 1.1.0 |
 | Listed versions | 1.0.0 , 1.1.0 |
 | Last update | 2026-06-16 |

@@ -17,7 +17,7 @@ Contains the default texture files for Emeralds Plus so creators can inspect and
 | Type | Resource pack |
 | Loader | minecraft |
 | Minecraft versions | 26.1.2 |
-| Downloads | 12 |
+| Downloads | 13 |
 | Latest version | 0.9.0 |
 | Listed versions | 0.9.0 |
 | Last update | 2026-06-15 |
