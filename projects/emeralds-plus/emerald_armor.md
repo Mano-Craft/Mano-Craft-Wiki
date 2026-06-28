@@ -1,6 +1,6 @@
 ---
 label: "Emerald Armor"
-icon: "https://mano-craft.github.io/Mano-Craft-Wiki/icons/emerald_chestplate.png"
+icon: "https://mano-craft.github.io/Mano-Craft-Wiki/icons/emeraldchestplate.png"
 order: 140
 ---
 
