@@ -1,7 +1,7 @@
 ---
 label: "Emeralds Plus Default Texture Pack"
 icon: "https://cdn.modrinth.com/data/j2pOvFTl/84dff7f78f6b90b2d93b19c93d3f70b69075fa7d.png"
-order: 100
+order: 190
 ---
 
 # 🖼️ Emeralds Plus Default Texture Pack

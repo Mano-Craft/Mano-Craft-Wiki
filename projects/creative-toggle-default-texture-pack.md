@@ -1,7 +1,7 @@
 ---
 label: "Creative Toggle Default Texture Pack"
 icon: "https://cdn.modrinth.com/data/ErFdq60k/3190b1535fdae4df135445fea8c93601fa594414.png"
-order: 100
+order: 170
 ---
 
 # 🖼️ Creative Toggle Default Texture Pack

@@ -1,7 +1,7 @@
 ---
 label: "Creative Toggle"
 icon: "https://cdn.modrinth.com/data/8EDtBDjA/3190b1535fdae4df135445fea8c93601fa594414.png"
-order: 100
+order: 180
 ---
 
 # ⚙️ Creative Toggle
