@@ -17,32 +17,31 @@ Contains the default texture files for Emeralds Plus so creators can inspect and
 | Type | Resource pack |
 | Loader | minecraft |
 | Minecraft versions | 26.1.2 |
-| Downloads | 13 |
-| Latest version | 0.9.0 |
-| Listed versions | 0.9.0 |
-| Last update | 2026-06-15 |
+| Downloads | 14|
+| Latest version | 0.9.1|
+| Listed versions | 0.9.0 , 0.9.1|
+| Last update | 2026-06-27 |
 | Issues | [GitHub Issues](https://github.com/Mano-Craft/Emeralds-plus/issues) |
 
 ## Latest Changelog
 
 <section class="mc-changelog-box" markdown="1">
 <p class="mc-changelog-label">Latest Modrinth changelog</p>
-<p class="mc-changelog-version">Version 0.9.0</p>
+<p class="mc-changelog-version">Version 0.9.1</p>
 
-This is the first version of the default texturepack for the [Emeralds Plus Mod](https://mano-craft.github.io/Mano-Craft-Wiki/projects/emeralds-plus/)
+This is the Second version of the default texturepack for the [Emeralds Plus Mod](https://mano-craft.github.io/Mano-Craft-Wiki/projects/emeralds-plus/)
 
 ## Added Textures :
-- Emerald Sword
-- Emerald Axe
-- Emerald Pickaxe
-- Emerald Shovel
-- Emerald Hoe
-- Emerald Armor
-- Emeralds Plus Mod Icon
-- Lang files for English
+
+- Lang files for :
+  - German
+  - Frensh
+  - Russian
+  - Portuguese
+- Lang files for every accents of the languages
 
 # Its neccesary to install the mod,otherwise the texture pack will do nothing 
-( I recommend to use the 0.9.0 mod file for this version )
+( I recommend to use the 0.9.1 mod file for this version )
 
 </section>
 

@@ -44,7 +44,7 @@
           "name": "",
           "url": "https://github.com/Mano-Craft/Creative-Toogle/blob/main/LICENSE"
         },
-        "downloads": 154,
+        "downloads": 159,
         "followers": 0,
         "categories": [
           "game-mechanics",
@@ -511,7 +511,7 @@
           "name": "MIT License",
           "url": null
         },
-        "downloads": 15,
+        "downloads": 16,
         "followers": 0,
         "categories": [
           "16x",
@@ -1060,5 +1060,5 @@
     "source": "https://github.com/Mano-Craft/Creative-Toogle/blob/main/LICENSE",
     "content": "Custom License\r\n\r\nCopyright (c) 2026 Mano Craft\r\n\r\nPermission is hereby granted to any person obtaining a copy of this software (\"the Mod\") to:\r\n\r\n- Download and use the Mod for personal or commercial gameplay.\r\n- Modify the Mod for private, personal use only.\r\n- Create and publish videos, livestreams, screenshots, and other media featuring the original or privately modified version of the Mod, provided appropriate credit is given to the original author.\r\n\r\nThe following actions are NOT permitted without prior written permission from the copyright holder:\r\n\r\n- Redistributing the original Mod, in whole or in part.\r\n- Redistributing, publishing, or sharing modified versions of the Mod.\r\n- Including the Mod or modified versions in modpacks that rehost the files instead of linking to the official download page.\r\n- Claiming authorship or ownership of the Mod or any substantial portion of it.\r\n- Removing or altering copyright notices, credits, or this license.\r\n\r\nCredit Requirements\r\n\r\nWhen showcasing the Mod in videos, livestreams, articles, or other public content, you must:\r\n\r\n- Clearly credit the original author.\r\n- Provide a link to the official Modrinth or GitHub project page whenever reasonably possible.\r\n\r\nDisclaimer\r\n\r\nTHE MOD IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE MOD.\r\n\r\nFor permissions beyond those granted in this license, please contact the copyright holder."
   },
-  "downloads_updated_at": "2026-06-27T13:27:33.813Z"
+  "downloads_updated_at": "2026-06-27T19:22:09.575Z"
 }

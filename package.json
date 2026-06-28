@@ -1,8 +1,9 @@
 {
   "scripts": {
     "refresh:data": "node scripts/update-data.mjs",
-    "generate": "node scripts/generate-site.mjs",
-    "refresh": "npm run refresh:data",
+    "refresh:downloads": "node scripts/refresh-downloads.mjs",
+    "generate": "node scripts/update-versions.mjs",
+    "refresh": "npm run refresh:downloads",
     "build": "retype build",
     "start": "retype watch"
   },
