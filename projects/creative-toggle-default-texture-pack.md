@@ -1,7 +1,7 @@
 ---
 label: "Creative Toggle Default Texture Pack"
 icon: "https://cdn.modrinth.com/data/ErFdq60k/3190b1535fdae4df135445fea8c93601fa594414.png"
-order: 100
+order: 170
 ---
 
 # 🖼️ Creative Toggle Default Texture Pack
@@ -16,8 +16,8 @@ Contains Creative Toggle's default mod textures and language files for visual or
 |---|---|
 | Type | Resource pack |
 | Loader | minecraft |
-| Minecraft versions | 26.1.2 |
-| Downloads | 16|
+| Minecraft versions | 1.21, 1.21.1, 1.21.2, 1.21.3, 1.21.4, 1.21.5, 1.21.6, 1.21.7, 1.21.8, 1.21.9, 1.21.10, 1.21.11 |
+| Downloads | 29|
 | Latest version | 1.1.0|
 | Listed versions | 1.0.0 , 1.1.0|
 | Last update | 2026-06-23 |

@@ -1,7 +1,7 @@
 ---
 label: "Emeralds Plus Default Texture Pack"
 icon: "https://cdn.modrinth.com/data/j2pOvFTl/84dff7f78f6b90b2d93b19c93d3f70b69075fa7d.png"
-order: 100
+order: 190
 ---
 
 # 🖼️ Emeralds Plus Default Texture Pack
@@ -17,38 +17,34 @@ Contains the default texture files for Emeralds Plus so creators can inspect and
 | Type | Resource pack |
 | Loader | minecraft |
 | Minecraft versions | 26.1.2 |
-| Downloads | 14|
-| Latest version | 0.9.1|
-| Listed versions | 0.9.0 , 0.9.1|
-| Last update | 2026-06-27 |
+| Downloads | 22|
+| Latest version | 1.0.0|
+| Listed versions | 0.9.0 , 0.9.1 , 0.9.2 , 1.0.0|
+| Last update | 2026-07-11 |
 | Issues | [GitHub Issues](https://github.com/Mano-Craft/Emeralds-plus/issues) |
 
 ## Latest Changelog
 
 <section class="mc-changelog-box" markdown="1">
 <p class="mc-changelog-label">Latest Modrinth changelog</p>
-<p class="mc-changelog-version">Version 0.9.1</p>
+<p class="mc-changelog-version">Version 1.0.0</p>
 
-This is the Second version of the default texturepack for the [Emeralds Plus Mod](https://mano-craft.github.io/Mano-Craft-Wiki/projects/emeralds-plus/)
+This is the First official version of the default texturepack for the [Emeralds Plus Mod](https://modrinth.com/mods/emeraldsplus)
 
 ## Added Textures :
 
-- Lang files for :
-  - German
-  - Frensh
-  - Russian
-  - Portuguese
-- Lang files for every accents of the languages
+- The Emerald Shield Texture
+- Changed the lang files for the Emerald Shield
 
 # Its neccesary to install the mod,otherwise the texture pack will do nothing 
-( I recommend to use the 0.9.1 mod file for this version )
+( I recommend to use the 1.0.0 mod file for this version )
 
 </section>
 
 ## Gallery
 
 <div class="mc-gallery">
-<figure><img src="https://cdn.modrinth.com/data/j2pOvFTl/images/bb63bf40af61ec8afcca0588258f14f1cd6967ad.png" alt="The Emeralds Plus Mod Textures"><figcaption>The Emeralds Plus Mod Textures</figcaption></figure>
+<figure><img src="https://cdn.modrinth.com/data/GPBU7vIp/images/d74ad0694a809ef693da9401cd31857518335027.png" alt="The Emeralds Plus Mod Textures"><figcaption>The Emeralds Plus Mod Textures</figcaption></figure>
 </div>
 
 # 🖼️ The Emeralds Plus Mods default Texture Pack

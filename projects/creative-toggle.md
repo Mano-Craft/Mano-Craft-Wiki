@@ -1,7 +1,7 @@
 ---
 label: "Creative Toggle"
 icon: "https://cdn.modrinth.com/data/8EDtBDjA/3190b1535fdae4df135445fea8c93601fa594414.png"
-order: 100
+order: 180
 ---
 
 # ⚙️ Creative Toggle
@@ -16,8 +16,8 @@ Adds an F3 + X shortcut that switches to Creative Mode and returns to the previo
 |---|---|
 | Type | Mod |
 | Loader | fabric |
-| Minecraft versions | 1.21, 1.21.1, 1.21.2, 1.21.3, 1.21.4, 1.21.5, 1.21.6, 1.21.7, 1.21.8, 1.21.9, 1.21.10, 1.21.11, 26.1, 26.1.1, 26.1.2, 26.2 |
-| Downloads | 165|
+| Minecraft versions | 1.21, 1.21.1, 1.21.2, 1.21.3, 1.21.4, 1.21.5, 1.21.6, 1.21.7, 1.21.8, 1.21.9, 1.21.10, 1.21.11 |
+| Downloads | 219|
 | Latest version | 1.1.0|
 | Listed versions | 1.0.0 , 1.1.0|
 | Last update | 2026-06-23 |
@@ -51,7 +51,7 @@ For Example : If you have portuguese brazil activated it also workes ( before on
 
 # ⚙️ Creative Toggle – Fabric Mod
 
-**Minecraft 1.21.0 + | Fabric**
+**Minecraft 1.21.x | Fabric**
 
 ## What does the mod do?
 
@@ -85,8 +85,6 @@ GLFW key codes: X = 88, Z = 90, C = 67, V = 86, etc.
 |-|-|
 | 1.20.6 | ❌️ |
 | 1.21 | ✅️ |
-| 26.1 | ✅️ |
-| 26.2 | ✅️ |
 
 The mod uses only stable Fabric API and Vanilla APIs, with no version-specific hacks.
 

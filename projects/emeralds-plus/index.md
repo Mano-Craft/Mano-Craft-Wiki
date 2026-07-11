@@ -1,7 +1,7 @@
 ---
 label: "Emeralds Plus"
 icon: "https://cdn.modrinth.com/data/GPBU7vIp/84dff7f78f6b90b2d93b19c93d3f70b69075fa7d.png"
-order: 100
+order: 200
 ---
 
 # 💚 Emeralds Plus
@@ -18,34 +18,40 @@ Adds emerald armor, emerald tools, and an Emerald Upgrade template for a gear ti
 | Loader | fabric |
 | Minecraft versions | 26.1.2 |
 | Downloads | 46|
-| Latest version | 0.9.1|
-| Listed versions | 0.9.0 , 0.9.1|
-| Last update | 2026-06-27 |
+| Latest version | 1.0.0|
+| Listed versions | 0.9.0 , 0.9.1 , 0.9.2 , 1.0.0|
+| Last update | 2026-07-11 |
 | Issues | [GitHub Issues](https://github.com/Mano-Craft/Emeralds-plus/issues) |
 
 ## Latest Changelog
 
 <section class="mc-changelog-box" markdown="1">
 <p class="mc-changelog-label">Latest Modrinth changelog</p>
-<p class="mc-changelog-version">Version 0.9.1</p>
+<p class="mc-changelog-version">Version 1.0.0</p>
 
-### Added new 5 Languages and her  Accents
+# Changes
+## Added the new Emerald Shield
 
----
+# 🛡️ Emerald Shield
 
-## Languages
+![Emerald Shield](https://github.com/user-attachments/assets/13529842-847d-45d8-84ee-ef8fe8cf9499)
 
-| Version | English | Portuguese | Russian | Frensh | German |
-|------|-------------|------|------|-------------|------|
-| 0.9.1   |  ✅  | ✅ | ✅ | ✅ | ✅ |
-| 0.9.0   |  ✅  | ❌  | ❌ | ❌ | ❌ |
+A stronger alternative to the normal shield.
+If you shield one tick before you land on the ground you will take no fall damage.
+
+<details>
+<summary><b>📖 Crafting Recipe</b></summary>
+
+![Emerald Shield Crafting](https://github.com/user-attachments/assets/9f3224eb-2403-41e6-89a4-9e2423e938be)
+
+</details>
 
 </section>
 
 ## Gallery
 
 <div class="mc-gallery">
-<figure><img src="https://cdn.modrinth.com/data/GPBU7vIp/images/37010fedc5e584e323ff63b39a2f21cdd7539a13.png" alt="The Emeralds Plus Mod"><figcaption>The Emeralds Plus Mod</figcaption></figure>
+<figure><img src="https://cdn.modrinth.com/data/GPBU7vIp/images/d74ad0694a809ef693da9401cd31857518335027.png" alt="The Emeralds Plus Mod"><figcaption>The Emeralds Plus Mod</figcaption></figure>
 <figure><img src="https://cdn.modrinth.com/data/GPBU7vIp/images/8bc0dbe1e9a97973d0f39c11be0e0f876eaa0c5c.png" alt="The Emerald Armor"><figcaption>The Emerald Armor</figcaption></figure>
 <figure><img src="https://cdn.modrinth.com/data/GPBU7vIp/images/c36c5af56952707c816bacc797f0a1f4060c6dc4.png" alt="The Emerald Upgrade"><figcaption>The Emerald Upgrade</figcaption></figure>
 <figure><img src="https://cdn.modrinth.com/data/GPBU7vIp/images/e6f938a000f1efbe0fbb7b6083d91c2e0d427130.png" alt="The Emerald Sword"><figcaption>The Emerald Sword</figcaption></figure>
@@ -53,6 +59,8 @@ Adds emerald armor, emerald tools, and an Emerald Upgrade template for a gear ti
 <figure><img src="https://cdn.modrinth.com/data/GPBU7vIp/images/ad3ff60124212cb2e2bca584f86ae8a8ac68857d.png" alt="The Emerald Pickaxe"><figcaption>The Emerald Pickaxe</figcaption></figure>
 <figure><img src="https://cdn.modrinth.com/data/GPBU7vIp/images/ad852d410606d515a89793c785cc1bd82b79a185.png" alt="The Emerald Shovel"><figcaption>The Emerald Shovel</figcaption></figure>
 <figure><img src="https://cdn.modrinth.com/data/GPBU7vIp/images/e65f964134001bf81476bef9f0a6727750acfa44.png" alt="The Emerald Hoe"><figcaption>The Emerald Hoe</figcaption></figure>
+<figure><img src="https://github.com/user-attachments/assets/13529842-847d-45d8-84ee-ef8fe8cf9499" alt="The Emerald Shield"><figcaption>The Emerald Shield</figcaption></figure>
+<figure><img src="/Mano-Craft-Wiki/images/emeralds_plus_tab.png" alt="The Emeralds Plus Mod Tab"><figcaption>The Emeralds Plus Mod Tab</figcaption></figure>
 </div>
 
 # 💚 The Emeralds Plus Mod
@@ -69,7 +77,7 @@ Emerald equipment is balanced to be **stronger than Diamond** but **slightly wea
 
 #  🔧 Building the Mod on his own
 
-- If You want to build the mod and change it for yourselfes use.You have To download [The Source Code](https://github.com/Mano-Craft/Emeralds-plus).Then  You have to change the `mcreator` folder to the `.mcreator` folder .And it **Only works with Mcreator 2026.2 and the Fabric 26.1.2 Plugin**
+- If You want to build the mod and change it for yourselfes use.You have To download [The Source Code](https://github.com/Mano-Craft/Emeralds-plus) for the version you want to change.Then You have to open the project in mcreator.And it **Only works with Mcreator 2026.2 and the Fabric 26.1.2 Plugin**
 - If you only want to change the textures just download the [default texture pack](https://modrinth.com/resourcepack/emeraldsplusdefaulttexturepack) and change there textures.I recomment to use the same mod version as the texture pack
 
 ---
@@ -105,7 +113,7 @@ The **Emerald Upgrade** allows you to upgrade **Diamond Tools** and **Diamond Ar
 ### How to obtain
 
 - 📦 Found in **Weaponsmith** village chests
-- 🎲 **50% chance** to generate
+- 🎲 **65% chance** to generate
 
 You can also duplicate the Emerald Upgrade:
 
@@ -126,7 +134,7 @@ A stronger alternative to the Diamond Sword while remaining slightly weaker than
 
 ### Obtain
 - 🏘️ Found in Weaponsmith village chests
-- 🎲 3% chance
+- 🎲 **3% chance** to generate
 
 <details>
 <summary><b>📖 Crafting Recipe</b></summary>
@@ -143,7 +151,7 @@ A powerful axe balanced between Diamond and Netherite.
 
 ### Obtain
 - 🏘️ Found in Weaponsmith village chests
-- 🎲 3% chance
+- 🎲 **3% chance** to generate
 
 <details>
 <summary><b>📖 Crafting Recipe</b></summary>
@@ -160,7 +168,7 @@ Mine faster with an upgraded pickaxe stronger than Diamond.
 
 ### Obtain
 - 🏘️ Found in Weaponsmith village chests
-- 🎲 3% chance
+- 🎲 **3% chance** to generate
 
 <details>
 <summary><b>📖 Crafting Recipe</b></summary>
@@ -175,6 +183,10 @@ Mine faster with an upgraded pickaxe stronger than Diamond.
 
 The Emerald Shovel offers improved durability and mining speed.
 
+### Obtain
+- 🏘️ Found in Weaponsmith village chests
+- 🎲 **2% chance** to generate
+
 <details>
 <summary><b>📖 Crafting Recipe</b></summary>
 
@@ -188,6 +200,10 @@ The Emerald Shovel offers improved durability and mining speed.
 
 A durable farming tool made from emeralds.
 
+### Obtain
+- 🏘️ Found in Weaponsmith village chests
+- 🎲 **2% chance** to generate
+
 <details>
 <summary><b>📖 Crafting Recipe</b></summary>
 
@@ -197,9 +213,14 @@ A durable farming tool made from emeralds.
 
 ---
 
-# 🛡️ Emerald Armor
+# 🪖 Emerald Armor
 
 The complete Emerald Armor set provides protection between Diamond and Netherite.
+
+### Obtain
+- 🏘️ Found in Weaponsmith village chests
+- 🎲 **1% chance** to generate for the boots
+- 🎲 **2% chance** to generate for the rest of the armor
 
 <details>
 <summary><b>📖 Crafting Recipes</b></summary>
@@ -219,6 +240,20 @@ The complete Emerald Armor set provides protection between Diamond and Netherite
 ### Boots
 
 ![Emerald Boots Crafting](https://cdn.modrinth.com/data/cached_images/9ca8d45393eec995b699b84324804a721a5b4cb3.png)
+
+</details>
+
+---
+
+# 🛡️ Emerald Shield
+
+A stronger alternative to the normal shield.
+If you shield one tick before you land on the ground you will take no fall damage.
+
+<details>
+<summary><b>📖 Crafting Recipe</b></summary>
+
+![Emerald Shield Crafting](https://github.com/user-attachments/assets/9f3224eb-2403-41e6-89a4-9e2423e938be)
 
 </details>
 

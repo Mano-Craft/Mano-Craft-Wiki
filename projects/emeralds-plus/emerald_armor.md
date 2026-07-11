@@ -4,9 +4,14 @@ icon: "https://mano-craft.github.io/Mano-Craft-Wiki/icons/emeraldchestplate.png"
 order: 140
 ---
 
-# 🛡️ Emerald Armor
+# 🪖 Emerald Armor
 
 The complete Emerald Armor set provides protection between Diamond and Netherite.
+
+### Obtain
+- 🏘️ Found in Weaponsmith village chests
+- 🎲 **1% chance** to generate for the boots
+- 🎲 **2% chance** to generate for the rest of the armor
 
 <details>
 <summary><b>📖 Crafting Recipes</b></summary>
