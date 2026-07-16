@@ -21,7 +21,7 @@ Minecraft mods, texture packs, and source projects in one documentation hub. Thi
 |---|---|
 | Modrinth projects | 4 |
 | GitHub repositories | 2 |
-| Total Modrinth downloads | 344|
+| Total Modrinth downloads | 344 |
 
 ## Quick Links
 
