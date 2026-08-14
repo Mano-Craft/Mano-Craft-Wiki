@@ -9,19 +9,19 @@ Minecraft mods, texture packs, and source projects in one documentation hub. Thi
 [!ref Open project catalog](/projects/)
 
 <div class="mc-grid">
-<a class="mc-card" href="/Mano-Craft-Wiki/projects/creative-toggle/"><img src="https://mano-craft.github.io/Mano-Craft-Wiki/icons/creative-toggle.png" alt=""><span><strong>Creative Toggle</strong><small>Mod | fabric | 165 downloads</small></span></a>
-<a class="mc-card" href="/Mano-Craft-Wiki/projects/emeralds-plus/"><img src="https://mano-craft.github.io/Mano-Craft-Wiki/icons/emerald_upgrade.png" alt=""><span><strong>Emeralds Plus</strong><small>Mod | fabric | 48 downloads</small></span></a>
-<a class="mc-card" href="/Mano-Craft-Wiki/projects/creative-toggle-default-texture-pack/"><img src="https://mano-craft.github.io/Mano-Craft-Wiki/icons/creative-toggle.png" alt=""><span><strong>Creative Toggle Default Texture Pack</strong><small>Resource pack | minecraft | 16 downloads</small></span></a>
-<a class="mc-card" href="/Mano-Craft-Wiki/projects/emeralds-plus-default-texture-pack/"><img src="https://mano-craft.github.io/Mano-Craft-Wiki/icons/emerald_upgrade.png" alt=""><span><strong>Emeralds Plus Default Texture Pack</strong><small>Resource pack | minecraft | 14 downloads</small></span></a>
+<a class="mc-card" href="/Mano-Craft-Wiki/projects/creative-toggle/"><img src="https://mano-craft.github.io/Mano-Craft-Wiki/icons/creative-toggle.png" alt=""><span><strong>Creative Toggle</strong><small>Mod | fabric | 332 downloads</small></span></a>
+<a class="mc-card" href="/Mano-Craft-Wiki/projects/emeralds-plus/"><img src="https://mano-craft.github.io/Mano-Craft-Wiki/icons/emerald_upgrade.png" alt=""><span><strong>Emeralds Plus</strong><small>Mod | fabric | 118 downloads</small></span></a>
+<a class="mc-card" href="/Mano-Craft-Wiki/projects/creative-toggle-default-texture-pack/"><img src="https://mano-craft.github.io/Mano-Craft-Wiki/icons/creative-toggle.png" alt=""><span><strong>Creative Toggle Default Texture Pack</strong><small>Resource pack | minecraft | 57 downloads</small></span></a>
+<a class="mc-card" href="/Mano-Craft-Wiki/projects/emeralds-plus-default-texture-pack/"><img src="https://mano-craft.github.io/Mano-Craft-Wiki/icons/emerald_upgrade.png" alt=""><span><strong>Emeralds Plus Default Texture Pack</strong><small>Resource pack | minecraft | 43 downloads</small></span></a>
 </div>
 
 ## Overview
 
 | Value | Status |
 |---|---|
-| Modrinth projects | 4 |
-| GitHub repositories | 2 |
-| Total Modrinth downloads | 243|
+| Modrinth projects | 5 |
+| GitHub repositories | 4 |
+| Total Modrinth downloads | 550|
 
 ## Quick Links
 

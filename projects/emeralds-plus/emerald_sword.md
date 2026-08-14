@@ -10,7 +10,7 @@ A stronger alternative to the Diamond Sword while remaining slightly weaker than
 
 ### Obtain
 - 🏘️ Found in Weaponsmith village chests
-- 🎲 3% chance
+- 🎲 **3% chance** to generate
 
 <details>
 <summary><b>📖 Crafting Recipe</b></summary>

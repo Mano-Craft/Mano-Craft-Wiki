@@ -8,6 +8,10 @@ order: 160
 
 The Emerald Shovel offers improved durability and mining speed.
 
+### Obtain
+- 🏘️ Found in Weaponsmith village chests
+- 🎲 **2% chance** to generate
+
 <details>
 <summary><b>📖 Crafting Recipe</b></summary>
 

@@ -10,7 +10,7 @@ A powerful axe balanced between Diamond and Netherite.
 
 ### Obtain
 - 🏘️ Found in Weaponsmith village chests
-- 🎲 3% chance
+- 🎲 **3% chance** to generate
 
 <details>
 <summary><b>📖 Crafting Recipe</b></summary>

@@ -1,7 +1,7 @@
 ---
 label: "Creative Toggle Default Texture Pack"
 icon: "https://cdn.modrinth.com/data/ErFdq60k/3190b1535fdae4df135445fea8c93601fa594414.png"
-order: 100
+order: 170
 ---
 
 # 🖼️ Creative Toggle Default Texture Pack
@@ -16,14 +16,14 @@ Contains Creative Toggle's default mod textures and language files for visual or
 |---|---|
 | Type | Resource pack |
 | Loader | minecraft |
-| Minecraft versions | 26.1.2 |
-| Downloads | 16|
+| Minecraft versions | 1.21, 1.21.1, 1.21.2, 1.21.3, 1.21.4, 1.21.5, 1.21.6, 1.21.7, 1.21.8, 1.21.9, 1.21.10, 1.21.11 |
+| Downloads | 57|
 | Latest version | 1.1.0|
 | Listed versions | 1.0.0 , 1.1.0|
 | Last update | 2026-06-23 |
 | Issues | [GitHub Issues](https://github.com/Mano-Craft/Creative-Toogle/issues) |
 
-## Latest Changelog
+## 📝 Latest Changelog
 
 <section class="mc-changelog-box" markdown="1">
 <p class="mc-changelog-label">Latest Modrinth changelog</p>
@@ -41,7 +41,7 @@ Added textures:
 
 </section>
 
-## Gallery
+## 🖼️ Gallery
 
 <div class="mc-gallery">
 <figure><img src="https://cdn.modrinth.com/data/ErFdq60k/images/353053803881fee6094373789c530c687a631f53.png" alt="Key Change Menu"><figcaption>Key Change Menu</figcaption></figure>
@@ -57,7 +57,7 @@ It is necessary to install the mod, otherwise the texture pack will do nothing.
 
 ---
 
-# 🚀 Changelog and Roadmap
+## 🚀 Changelog and Roadmap
 
 | Textures | 1.0.0 | 1.1.0 |
 |---|---|---|
@@ -70,21 +70,22 @@ It is necessary to install the mod, otherwise the texture pack will do nothing.
 
 ---
 
-# Examples
+## 📄 Examples
 
-## The Key Change Screen
+### ⚙️ The Key Change Screen
 
-Here you can change the text and add new languages.
+<div class="mc-gallery">
+<figure><img src="https://cdn.modrinth.com/data/8EDtBDjA/images/353053803881fee6094373789c530c687a631f53.png" alt="The Key Change Screen"><figcaption>Here you can change the text and add new languages</figcaption></figure>
+</div>
 
-![Key Change Screen](https://cdn.modrinth.com/data/8EDtBDjA/images/353053803881fee6094373789c530c687a631f53.png)
 
-## The Settings Key Change Method
+### 🔧 The Settings Key Change Screen
 
-Here you can change the text and add new languages.
+<div class="mc-gallery">
+<figure><img src="https://cdn.modrinth.com/data/8EDtBDjA/images/b7327b5990e710be92c4ded1f704f431db84cc00.png" alt="The Settings Key Change Screen"><figcaption>Here you can change the text and add new languages</figcaption></figure>
+</div>
 
-![Settings Key Change Screen](https://cdn.modrinth.com/data/8EDtBDjA/images/b7327b5990e710be92c4ded1f704f431db84cc00.png)
-
-# License
+## ⚖️ License
 
 This project is licensed under the **MIT License**.
 

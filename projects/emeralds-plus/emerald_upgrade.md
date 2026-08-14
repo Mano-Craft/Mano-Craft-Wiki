@@ -16,7 +16,7 @@ The **Emerald Upgrade** allows you to upgrade **Diamond Tools** and **Diamond Ar
 ### How to obtain
 
 - 📦 Found in **Weaponsmith** village chests
-- 🎲 **50% chance** to generate
+- 🎲 **65% chance** to generate
 
 You can also duplicate the Emerald Upgrade:
 

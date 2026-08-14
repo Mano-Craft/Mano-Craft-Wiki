@@ -8,6 +8,10 @@ order: 150
 
 A durable farming tool made from emeralds.
 
+### Obtain
+- 🏘️ Found in Weaponsmith village chests
+- 🎲 **2% chance** to generate
+
 <details>
 <summary><b>📖 Crafting Recipe</b></summary>
 
