@@ -16,7 +16,7 @@ Adds emerald armor, emerald tools, and an Emerald Upgrade template for a gear ti
 |---|---|
 | Type | Mod |
 | Loader | fabric |
-| Minecraft versions | 26.1.2 |
+| Minecraft versions | 26.1.2 , 26.2 |
 | Downloads | 118|
 | Latest version | 2.0.0|
 | Listed versions | 0.9.0 , 0.9.1 , 0.9.2 , 1.0.0 , 2.0.0|
