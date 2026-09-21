@@ -10,17 +10,17 @@ A stronger alternative to the Diamond Sword while remaining slightly weaker than
 
 ### Obtain
 - 🏘️ Found in Weaponsmith village chests
-- 🎲 3% chance
+- 🎲 **3% chance** to generate
 
 <details>
 <summary><b>📖 Crafting Recipe</b></summary>
 
-![Emerald Sword Crafting](https://cdn.modrinth.com/data/cached_images/e5195e6bf78096101476463b038c242afeec73ba.png)
+![Emerald Sword Crafting](/Mano-Craft-Wiki/images/emerald_sword_cr.png)
 
 </details>
 
 <div class="mc-gallery">
 
-<figure><img src="https://cdn.modrinth.com/data/GPBU7vIp/images/e6f938a000f1efbe0fbb7b6083d91c2e0d427130.png" alt="The Emerald Sword"></figure>
+<figure><img src="/Mano-Craft-Wiki/images/emerald_sword.png" alt="The Emerald Sword"></figure>
 
 </div>

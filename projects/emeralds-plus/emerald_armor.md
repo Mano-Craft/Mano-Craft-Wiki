@@ -4,33 +4,38 @@ icon: "https://mano-craft.github.io/Mano-Craft-Wiki/icons/emeraldchestplate.png"
 order: 140
 ---
 
-# 🛡️ Emerald Armor
+# 🪖 Emerald Armor
 
 The complete Emerald Armor set provides protection between Diamond and Netherite.
+
+### Obtain
+- 🏘️ Found in Weaponsmith village chests
+- 🎲 **1% chance** to generate for the boots
+- 🎲 **2% chance** to generate for the rest of the armor
 
 <details>
 <summary><b>📖 Crafting Recipes</b></summary>
 
-### Helmet
+#### Helmet
 
-![Emerald Helmet Crafting](https://cdn.modrinth.com/data/cached_images/030f16155948131e3d1a1886c170db3960bbdc94.png)
+![Emerald Helmet Crafting](/Mano-Craft-Wiki/images/emerald_helmet_cr.png)
 
 ### Chestplate
 
-![Emerald Chestplate Crafting](https://cdn.modrinth.com/data/cached_images/8d8ae5377ddecc5883f6ecf3d93e7eb0d33776b0.png)
+![Emerald Chestplate Crafting](/Mano-Craft-Wiki/images/emerald_chestplate_cr.png)
 
-### Leggings
+#### Leggings
 
-![Emerald Leggings Crafting](https://cdn.modrinth.com/data/cached_images/101f6aba3b2765a6eec103009060c075c96784b7.png)
+![Emerald Leggings Crafting](/Mano-Craft-Wiki/images/emerald_leggings_cr.png)
 
-### Boots
+#### Boots
 
-![Emerald Boots Crafting](https://cdn.modrinth.com/data/cached_images/9ca8d45393eec995b699b84324804a721a5b4cb3.png)
+![Emerald Boots Crafting](/Mano-Craft-Wiki/images/emerald_boots_cr.png)
 
 </details>
 
 <div class="mc-gallery">
 
-<figure><img src="https://cdn.modrinth.com/data/GPBU7vIp/images/8bc0dbe1e9a97973d0f39c11be0e0f876eaa0c5c.png" alt="The Emerald Armor"></figure>
+<figure><img src="/Mano-Craft-Wiki/images/emerald_armor.png" alt="The Emerald Armor"></figure>
 
 </div>
