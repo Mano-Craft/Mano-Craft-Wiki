@@ -77,7 +77,7 @@ This is the Fifth official version of the default texturepack for the [Emeralds 
 ## 🖼️ Gallery
 
 <div class="mc-gallery">
-<figure><img src="https://cdn.modrinth.com/data/GPBU7vIp/images/d74ad0694a809ef693da9401cd31857518335027.png" alt="The Emeralds Plus Mod Textures"><figcaption>The Emeralds Plus Mod Textures</figcaption></figure>
+<figure><img src="/Mano-Craft-Wiki/images/emerald_equipment.png" alt="The Emeralds Plus Mod Textures"><figcaption>The Emeralds Plus Mod Textures</figcaption></figure>
 </div>
 
 # 🖼️ The Emeralds Plus Mods default Texture Pack
