@@ -92,7 +92,7 @@ async function main() {
 
     if (replaceReadmeCardDownloads("README.md", project, downloads)) fileChanges += 1;
     if (replaceProjectIndexDownloads("projects/index.md", project, downloads)) fileChanges += 1;
-    if (replaceProjectDownloads(`projects/${slugify(project.title)}.md`, downloads)) fileChanges += 1;
+    if (replaceProjectDownloads(`projects/${slugify(project.title)}/index.md`, downloads)) fileChanges += 1;
   }
 
   const totalDownloads = entries.reduce((sum, entry) => sum + Number(entry.project?.downloads || 0), 0);

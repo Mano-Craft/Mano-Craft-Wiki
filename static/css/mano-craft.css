@@ -172,3 +172,61 @@ table {
 .content h1:first-child {
   color: var(--mc-green);
 }
+
+
+.mc-craft {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 12px;
+  margin: 1rem 0 2rem;
+}
+
+.mc-craft figure {
+  background: rgba(1, 17, 66, .08);
+  border: 1px solid rgba(19, 138, 82, .22);
+  border-radius: 8px;
+  margin: 0;
+  overflow: hidden;
+}
+
+.mc-craft img {
+  aspect-ratio: 16 / 9;
+  object-fit: contain;
+  background-color: #00000000;
+  width: 100%;
+}
+
+.mc-craft figcaption {
+  color: var(--text-muted);
+  font-size: .85rem;
+  padding: .55rem .65rem .7rem;
+}
+
+
+.mc-tab {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 12px;
+  margin: 1rem 0 2rem;
+}
+
+.mc-tab figure {
+  background: rgba(1, 17, 66, .08);
+  border: 1px solid rgba(19, 138, 82, .22);
+  border-radius: 8px;
+  margin: 0;
+  overflow: hidden;
+}
+
+.mc-tab img {
+  width: 100%;        /* Das Bild nutzt die volle Breite der Karte */
+  height: auto;       /* Die Höhe passt sich automatisch an das echte Bildformat an */
+  display: block;     /* Verhindert Abstände zum Text darunter */
+  object-fit: normal; /* Setzt das Verhalten zurück, da die Box nun dem Bild folgt */
+}
+
+.mc-tab figcaption {
+  color: var(--text-muted);
+  font-size: .85rem;
+  padding: .55rem .65rem .7rem;
+}
