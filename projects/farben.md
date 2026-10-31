@@ -10,3 +10,5 @@ order: 100
 | Zelle | Gelb |
 | Synapsen | Grün |
 | Axon | Gelb |
+| Karton | Rot |
+| Muskelfaser | Schwarz |
