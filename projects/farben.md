@@ -1,6 +1,6 @@
 ---
-label: Projects
-icon: package
+label: Farben
+icon: coulor
 order: 100
 ---
 
@@ -8,3 +8,4 @@ order: 100
 |-|-|
 | Zellkern | rot |
 | Zelle | Gelb |
+|  | |
