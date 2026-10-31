@@ -9,3 +9,4 @@ order: 100
 | Zellkern | rot |
 | Zelle | Gelb |
 | Synapsen | Grün |
+| Axon | Gelb |
