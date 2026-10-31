@@ -1,6 +1,6 @@
 ---
 label: Farben
-icon: coulor
+icon: paintcan
 order: 100
 ---
 
