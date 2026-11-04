@@ -1,6 +1,6 @@
 ---
 label: "Emerald Axe"
-icon: "https://mano-craft.github.io/Mano-Craft-Wiki/icons/emerald_axe.png"
+icon: "https://mano-craft.github.io/Mano-Craft-Wiki/icons/emerald_axe_texture.png"
 order: 180
 ---
 
