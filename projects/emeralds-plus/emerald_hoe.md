@@ -1,6 +1,6 @@
 ---
 label: "Emerald Hoe"
-icon: "https://mano-craft.github.io/Mano-Craft-Wiki/icons/emerald_hoe.png"
+icon: "https://mano-craft.github.io/Mano-Craft-Wiki/icons/emerald_hoe_texture.png"
 order: 150
 ---
 
