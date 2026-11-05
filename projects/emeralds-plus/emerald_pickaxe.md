@@ -1,6 +1,6 @@
 ---
 label: "Emerald Pickaxe"
-icon: "https://mano-craft.github.io/Mano-Craft-Wiki/icons/emerald_pickaxe.png"
+icon: "https://mano-craft.github.io/Mano-Craft-Wiki/icons/emerald_pickaxe_texture.png"
 order: 170
 ---
 
