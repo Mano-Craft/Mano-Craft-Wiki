@@ -1,6 +1,6 @@
 ---
 label: "Emerald Sword"
-icon: "https://mano-craft.github.io/Mano-Craft-Wiki/icons/emerald_sword.png"
+icon: "https://mano-craft.github.io/Mano-Craft-Wiki/icons/emerald_sword_texture.png"
 order: 190
 ---
 
