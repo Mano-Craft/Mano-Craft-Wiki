@@ -1,6 +1,6 @@
 ---
 label: "Emerald Shovel"
-icon: "https://mano-craft.github.io/Mano-Craft-Wiki/icons/emerald_shovel.png"
+icon: "https://mano-craft.github.io/Mano-Craft-Wiki/icons/emerald_shovel_texture.png"
 order: 160
 ---
 
