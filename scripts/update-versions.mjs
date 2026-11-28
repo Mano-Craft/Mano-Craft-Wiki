@@ -2,10 +2,10 @@ import fs from "node:fs";
 
 const versionsFile = "project-versions.json";
 const projectFiles = [
-  ["creativetoggle", "Creative Toggle", "projects/creative-toggle.md"],
-  ["emeraldsplus", "Emeralds Plus", "projects/emeralds-plus.md"],
-  ["creative-toggle-default-texture-pack", "Creative Toggle Default Texture Pack", "projects/creative-toggle-default-texture-pack.md"],
-  ["emeraldsplusdefaulttexturepack", "Emeralds Plus Default Texture Pack", "projects/emeralds-plus-default-texture-pack.md"],
+  ["creativetoggle", "Creative Toggle", "projects/creative-toggle/index.md"],
+  ["emeraldsplus", "Emeralds Plus", "projects/emeralds-plus/index.md"],
+  ["creative-toggle-default-texture-pack", "Creative Toggle Default Texture Pack", "projects/creative-toggle-default-texture-pack/index.md"],
+  ["emeraldsplusdefaulttexturepack", "Emeralds Plus Default Texture Pack", "projects/emeralds-plus-default-texture-pack/index.md"],
 ];
 
 function readJson(file) {

@@ -5,7 +5,7 @@
     "generate": "node scripts/update-versions.mjs",
     "refresh": "npm run refresh:downloads",
     "build": "retype build",
-    "start": "retype watch"
+    "start": "retype start"
   },
   "dependencies": {
     "retypeapp": "^3.11.0"
